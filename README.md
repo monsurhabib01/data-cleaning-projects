@@ -5,11 +5,11 @@ Each project focuses on real-world datasets with practical cleaning, analysis, a
 
 ---
 
-## 🗂️ Project List
-
 | # | Project | Dataset | Tools | Status |
 |---|---------|---------|-------|--------|
-| 01 | Coming soon | - | Python, Pandas | 🔄 In Progress |
+| 01 | [GlobalTextiles Data Cleaning](./project-01-globaltextiles) | Excel/CSV | Excel, Python | ✅ Completed |
+```
+
 
 ---
 
