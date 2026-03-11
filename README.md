@@ -68,7 +68,3 @@ field mapping and company linking.
 
 | 02 | [Workforce Data Filtering](./project-02-workforce-data-filtering) | Excel | Python, Pandas | ✅ Completed |
 ```
-
-github.dev তেই করো — Commit message:
-```
-Add project 02 to main README
