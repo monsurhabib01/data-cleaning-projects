@@ -22,8 +22,11 @@ Each project focuses on real-world datasets with practical cleaning, analysis, a
 
 ---
 
-## 🔗 Connect
-- 🌐 [aitipseveryday.com](https://aitipseveryday.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/mohammad-monsur-habib/)
+### 📫 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-monsur-habib/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:monsurhabib01@gmail.com)
+
+🌐 [aitipseveryday.com](https://aitipseveryday.com)
 ```
 
