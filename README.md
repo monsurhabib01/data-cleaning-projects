@@ -65,6 +65,3 @@ field mapping and company linking.
 | `*.csv` | Exported clean data for CRM import |
 | `*.png` | Screenshots of process/output |
 ```
-
-| 02 | [Workforce Data Filtering](./project-02-workforce-data-filtering) | Excel | Python, Pandas | ✅ Completed |
-```
