@@ -1,0 +1,1254 @@
+order_id,date,product,category,quantity,unit_price,region,payment_method,customer_id,total_price,month,year
+ORD-2065,2023-07-21,Mouse,Accessories,5,32.33,Central,Cash,CUST-443,161.65,July,2023
+ORD-1695,2023-06-08,USB Hub,Accessories,2,32.26,West,PayPal,CUST-260,64.52,June,2023
+ORD-1899,2023-11-17,Notebook,Office,4,18.65,South,Cash,CUST-341,74.6,November,2023
+ORD-1770,2023-05-01,Webcam,Electronics,8,75.44,South,Credit Card,CUST-181,603.52,May,2023
+ORD-1743,2023-12-20,Charger,Accessories,6,23.25,North,Bank Transfer,CUST-424,139.5,December,2023
+ORD-1346,2023-02-09,Keyboard,Accessories,6,68.79,West,Cash,CUST-242,412.74,February,2023
+ORD-1239,2023-08-03,Keyboard,Accessories,3,57.51,Central,Cash,CUST-285,172.53,August,2023
+ORD-1464,2023-10-26,Webcam,Electronics,10,77.81,West,Debit Card,CUST-242,778.1,October,2023
+ORD-1405,2023-11-11,Laptop,Electronics,3,959.09,East,Cash,CUST-247,2877.27,November,2023
+ORD-1986,2023-08-28,Desk Lamp,Office,2,40.88,North,Debit Card,UNKNOWN,81.76,August,2023
+ORD-1706,2023-01-25,Charger,Accessories,4,28.4,North,Debit Card,CUST-192,113.6,January,2023
+ORD-1572,2023-04-24,Monitor,Electronics,5,320.82,East,Cash,CUST-128,1604.1,April,2023
+ORD-1065,2023-03-17,Webcam,Electronics,7,66.29,East,Debit Card,CUST-492,464.03,March,2023
+ORD-1044,2023-08-21,Charger,Accessories,9,34.81,North,Cash,CUST-171,313.29,August,2023
+ORD-2098,2023-09-03,Laptop,Electronics,9,956.64,Central,PayPal,CUST-159,8609.76,September,2023
+ORD-1526,2023-07-06,Keyboard,Accessories,2,51.08,Central,Credit Card,CUST-377,102.16,July,2023
+ORD-2159,2023-12-20,Headphones,Accessories,4,92.35,South,Cash,CUST-360,369.4,December,2023
+ORD-1477,2023-06-08,Monitor,Electronics,2,328.62,West,Bank Transfer,CUST-408,657.24,June,2023
+ORD-1630,2023-09-21,Charger,Accessories,9,24.93,West,PayPal,CUST-110,224.37,September,2023
+ORD-2045,2023-11-05,Headphones,Accessories,7,90.99,West,Cash,CUST-303,636.93,November,2023
+ORD-2040,2023-06-23,Keyboard,Accessories,1,53.22,South,Credit Card,CUST-105,53.22,June,2023
+ORD-1196,2023-09-04,Monitor,Electronics,7,327.05,Central,Bank Transfer,CUST-108,2289.35,September,2023
+ORD-1231,2023-02-05,USB Hub,Accessories,4,33.25,North,Debit Card,CUST-265,133.0,February,2023
+ORD-1832,2023-12-25,USB Hub,Accessories,6,36.91,East,Bank Transfer,CUST-325,221.46,December,2023
+ORD-1333,2023-02-24,Monitor,Electronics,1,322.95,North,PayPal,CUST-500,322.95,February,2023
+ORD-2068,2023-10-31,Headphones,Accessories,1,86.31,South,Credit Card,CUST-483,86.31,October,2023
+ORD-1394,2023-02-07,Monitor,Electronics,9,325.14,West,Credit Card,CUST-489,2926.26,February,2023
+ORD-1342,2023-06-23,Laptop,Electronics,7,953.29,West,Bank Transfer,UNKNOWN,6673.03,June,2023
+ORD-1198,2023-02-25,Monitor,Electronics,7,334.35,Central,Credit Card,CUST-183,2340.45,February,2023
+ORD-2142,2023-12-13,Headphones,Accessories,9,81.48,North,Bank Transfer,CUST-282,733.32,December,2023
+ORD-1365,2023-12-02,Headphones,Accessories,9,79.75,West,Cash,CUST-466,717.75,December,2023
+ORD-1184,2023-08-05,Webcam,Electronics,2,76.78,East,PayPal,CUST-389,153.56,August,2023
+ORD-2026,2023-02-07,USB Hub,Accessories,10,41.07,East,Credit Card,CUST-174,410.7,February,2023
+ORD-1128,2023-10-27,Laptop,Electronics,4,960.95,South,Credit Card,CUST-103,3843.8,October,2023
+ORD-1923,2023-11-30,Webcam,Electronics,3,69.4,South,Cash,CUST-428,208.2,November,2023
+ORD-1056,2023-10-17,Laptop,Electronics,3,947.61,Central,Credit Card,CUST-267,2842.83,October,2023
+ORD-1051,2023-01-11,Notebook,Office,2,21.08,West,Debit Card,CUST-416,42.16,January,2023
+ORD-1240,2023-08-21,USB Hub,Accessories,9,44.64,South,Credit Card,CUST-149,401.76,August,2023
+ORD-2176,2023-05-29,Headphones,Accessories,4,84.63,West,PayPal,CUST-446,338.52,May,2023
+ORD-1671,2023-06-20,Notebook,Office,5,10.44,North,Debit Card,CUST-419,52.2,June,2023
+ORD-1442,2023-07-18,Mouse,Accessories,4,26.11,Central,Debit Card,CUST-143,104.44,July,2023
+ORD-2146,2023-05-16,Webcam,Electronics,9,81.7,West,Credit Card,CUST-334,735.3,May,2023
+ORD-1221,2023-12-26,Mouse,Accessories,1,39.38,East,Credit Card,CUST-199,39.38,December,2023
+ORD-1023,2023-07-28,Monitor,Electronics,4,324.32,North,PayPal,CUST-379,1297.28,July,2023
+ORD-1423,2023-08-19,Laptop,Electronics,1,952.73,South,PayPal,CUST-308,952.73,August,2023
+ORD-1667,2023-12-03,Mouse,Accessories,6,36.3,Central,Credit Card,CUST-252,217.8,December,2023
+ORD-1297,2023-03-08,Notebook,Office,9,16.79,West,Credit Card,UNKNOWN,151.11,March,2023
+ORD-1043,2023-03-04,Laptop,Electronics,9,950.2,Central,Debit Card,CUST-120,8551.8,March,2023
+ORD-2115,2023-08-03,Mouse,Accessories,10,30.04,South,PayPal,CUST-184,300.4,August,2023
+ORD-1712,2023-08-12,Mouse,Accessories,1,24.97,North,Bank Transfer,CUST-395,24.97,August,2023
+ORD-1771,2023-11-27,Mouse,Accessories,9,34.04,Central,Bank Transfer,CUST-239,306.36,November,2023
+ORD-1852,2023-02-14,Mouse,Accessories,10,20.51,Central,Debit Card,CUST-466,205.1,February,2023
+ORD-1081,2023-10-29,Monitor,Electronics,5,319.29,West,Bank Transfer,CUST-409,1596.45,October,2023
+ORD-1063,2023-04-30,Headphones,Accessories,10,91.25,South,Credit Card,CUST-213,912.5,April,2023
+ORD-1123,2023-02-03,Notebook,Office,10,23.35,North,Debit Card,CUST-133,233.5,February,2023
+ORD-2052,2023-03-12,USB Hub,Accessories,3,35.81,South,Debit Card,CUST-476,107.43,March,2023
+ORD-1078,2023-01-08,USB Hub,Accessories,7,30.59,West,PayPal,CUST-351,214.13,January,2023
+ORD-1983,2023-03-23,Charger,Accessories,2,21.63,West,Bank Transfer,CUST-125,43.26,March,2023
+ORD-1277,2023-12-08,Desk Lamp,Office,7,32.95,South,PayPal,CUST-345,230.65,December,2023
+ORD-2093,2023-10-24,Monitor,Electronics,2,316.53,East,Bank Transfer,CUST-463,633.06,October,2023
+ORD-1754,2023-02-08,Webcam,Electronics,2,72.27,Central,Cash,CUST-307,144.54,February,2023
+ORD-1585,2023-04-25,USB Hub,Accessories,6,34.57,West,Debit Card,CUST-114,207.42,April,2023
+ORD-1352,2023-04-10,Headphones,Accessories,9,81.88,East,Credit Card,UNKNOWN,736.92,April,2023
+ORD-1254,2023-12-12,Keyboard,Accessories,7,53.8,South,PayPal,CUST-183,376.6,December,2023
+ORD-1708,2023-06-19,Notebook,Office,3,15.46,South,Bank Transfer,CUST-421,46.38,June,2023
+ORD-1716,2023-06-23,Charger,Accessories,10,31.78,North,Credit Card,CUST-480,317.8,June,2023
+ORD-2077,2023-09-01,Keyboard,Accessories,5,66.8,South,PayPal,CUST-443,334.0,September,2023
+ORD-1374,2023-12-15,USB Hub,Accessories,4,43.92,North,Bank Transfer,CUST-209,175.68,December,2023
+ORD-1210,2023-12-12,Charger,Accessories,1,27.78,Central,Debit Card,CUST-284,27.78,December,2023
+ORD-1244,2023-06-09,Monitor,Electronics,5,326.88,South,Cash,CUST-173,1634.4,June,2023
+ORD-1741,2023-08-07,Desk Lamp,Office,10,38.07,East,Credit Card,CUST-263,380.7,August,2023
+ORD-1548,2023-08-03,USB Hub,Accessories,3,31.76,South,Cash,CUST-461,95.28,August,2023
+ORD-2047,2023-07-25,Notebook,Office,7,22.03,South,Credit Card,CUST-208,154.21,July,2023
+ORD-1032,2023-07-05,Keyboard,Accessories,3,63.72,West,Bank Transfer,CUST-393,191.16,July,2023
+ORD-1076,2023-01-14,Keyboard,Accessories,1,66.43,Central,Credit Card,CUST-301,66.43,January,2023
+ORD-1339,2023-02-10,Headphones,Accessories,9,87.46,South,Credit Card,CUST-194,787.14,February,2023
+ORD-1756,2023-11-23,Desk Lamp,Office,5,29.46,Central,Credit Card,CUST-158,147.3,November,2023
+ORD-1478,2023-10-14,USB Hub,Accessories,6,44.43,Central,Cash,CUST-307,266.58,October,2023
+ORD-1912,2023-11-16,Desk Lamp,Office,1,28.07,North,Bank Transfer,CUST-315,28.07,November,2023
+ORD-2006,2023-08-29,Charger,Accessories,10,21.03,South,Debit Card,CUST-204,210.3,August,2023
+ORD-2069,2023-06-22,Laptop,Electronics,4,952.29,North,Cash,CUST-123,3809.16,June,2023
+ORD-1220,2023-05-20,Monitor,Electronics,4,329.65,North,Cash,CUST-363,1318.6,May,2023
+ORD-1306,2023-02-06,Notebook,Office,2,14.53,East,Bank Transfer,CUST-453,29.06,February,2023
+ORD-1828,2023-06-03,Notebook,Office,5,17.65,Central,Credit Card,CUST-154,88.25,June,2023
+ORD-1893,2023-05-09,Charger,Accessories,6,25.93,East,Bank Transfer,CUST-308,155.58,May,2023
+ORD-1467,2023-06-29,Mouse,Accessories,6,34.22,South,Credit Card,CUST-492,205.32,June,2023
+ORD-1438,2023-03-23,Keyboard,Accessories,2,62.02,Central,PayPal,CUST-324,124.04,March,2023
+ORD-1885,2023-03-24,Mouse,Accessories,6,32.41,South,Debit Card,CUST-252,194.46,March,2023
+ORD-2119,2023-04-15,Webcam,Electronics,1,77.28,West,Credit Card,CUST-491,77.28,April,2023
+ORD-1218,2023-01-15,Charger,Accessories,10,15.03,North,Credit Card,CUST-427,150.3,January,2023
+ORD-1101,2023-11-11,Desk Lamp,Office,10,40.64,South,Cash,CUST-210,406.4,November,2023
+ORD-1542,2023-08-14,Desk Lamp,Office,4,30.47,Central,Cash,CUST-116,121.88,August,2023
+ORD-1589,2023-11-29,Notebook,Office,6,16.79,West,Bank Transfer,CUST-287,100.74,November,2023
+ORD-1558,2023-10-11,Charger,Accessories,7,21.44,North,Debit Card,CUST-156,150.08,October,2023
+ORD-1208,2023-11-15,Monitor,Electronics,7,316.77,East,Bank Transfer,CUST-127,2217.39,November,2023
+ORD-1058,2023-02-05,Headphones,Accessories,6,82.44,North,Cash,CUST-411,494.64,February,2023
+ORD-1420,2023-09-14,Headphones,Accessories,4,89.98,South,Cash,CUST-327,359.92,September,2023
+ORD-1909,2023-03-20,Laptop,Electronics,8,951.61,Central,Credit Card,CUST-359,7612.88,March,2023
+ORD-2112,2023-01-10,Monitor,Electronics,3,324.29,East,Bank Transfer,CUST-364,972.87,January,2023
+ORD-1243,2023-07-09,Charger,Accessories,5,16.86,East,Bank Transfer,CUST-280,84.3,July,2023
+ORD-1599,2023-08-29,Notebook,Office,5,18.24,Central,Credit Card,CUST-319,91.2,August,2023
+ORD-1485,2023-12-17,Desk Lamp,Office,5,39.16,East,Bank Transfer,CUST-155,195.8,December,2023
+ORD-1514,2023-03-09,Monitor,Electronics,6,320.88,South,Cash,CUST-484,1925.28,March,2023
+ORD-1451,2023-02-03,USB Hub,Accessories,1,46.49,South,Cash,CUST-186,46.49,February,2023
+ORD-1049,2023-11-24,Desk Lamp,Office,5,30.0,North,Credit Card,CUST-112,150.0,November,2023
+ORD-2010,2023-02-25,Webcam,Electronics,5,72.9,West,Cash,CUST-247,364.5,February,2023
+ORD-1109,2023-02-01,Monitor,Electronics,6,321.38,East,PayPal,CUST-472,1928.28,February,2023
+ORD-1438,2023-03-23,Keyboard,Accessories,2,62.02,Central,PayPal,CUST-324,124.04,March,2023
+ORD-1086,2023-01-27,Webcam,Electronics,1,77.38,Central,PayPal,CUST-303,77.38,January,2023
+ORD-1309,2023-08-12,Headphones,Accessories,10,89.29,South,PayPal,CUST-139,892.9,August,2023
+ORD-1415,2023-11-30,Charger,Accessories,6,32.41,East,Bank Transfer,CUST-333,194.46,November,2023
+ORD-1834,2023-03-31,Charger,Accessories,8,34.63,Central,Bank Transfer,CUST-230,277.04,March,2023
+ORD-1490,2023-08-05,USB Hub,Accessories,9,40.69,Central,Cash,CUST-218,366.21,August,2023
+ORD-1328,2023-08-24,Desk Lamp,Office,6,30.16,South,PayPal,CUST-254,180.96,August,2023
+ORD-1265,2023-04-21,Headphones,Accessories,4,82.22,Central,PayPal,CUST-372,328.88,April,2023
+ORD-1826,2023-10-05,USB Hub,Accessories,2,44.24,East,Bank Transfer,CUST-211,88.48,October,2023
+ORD-1673,2023-01-23,USB Hub,Accessories,2,47.01,South,Cash,CUST-147,94.02,January,2023
+ORD-1549,2023-03-24,Desk Lamp,Office,5,37.29,North,Debit Card,CUST-184,186.45,March,2023
+ORD-1851,2023-11-10,Desk Lamp,Office,5,35.45,North,Cash,CUST-343,177.25,November,2023
+ORD-1841,2023-05-02,Laptop,Electronics,7,952.04,South,Cash,CUST-157,6664.28,May,2023
+ORD-2085,2023-06-07,Mouse,Accessories,6,23.52,Central,Credit Card,CUST-186,141.12,June,2023
+ORD-1802,2023-05-15,Headphones,Accessories,5,93.42,Central,Credit Card,CUST-476,467.1,May,2023
+ORD-1787,2023-09-29,Keyboard,Accessories,4,68.53,Central,Credit Card,CUST-260,274.12,September,2023
+ORD-1308,2023-01-22,Webcam,Electronics,4,83.06,East,PayPal,CUST-157,332.24,January,2023
+ORD-1583,2023-02-11,Laptop,Electronics,3,963.36,South,PayPal,CUST-264,2890.08,February,2023
+ORD-1678,2023-03-31,Mouse,Accessories,6,33.92,Central,PayPal,CUST-272,203.52,March,2023
+ORD-1286,2023-06-04,Keyboard,Accessories,9,55.27,West,Credit Card,CUST-490,497.43,June,2023
+ORD-1351,2023-09-19,Keyboard,Accessories,8,60.71,West,Bank Transfer,CUST-356,485.68,September,2023
+ORD-1522,2023-03-26,USB Hub,Accessories,9,40.01,Central,Cash,CUST-354,360.09,March,2023
+ORD-1303,2023-10-14,Mouse,Accessories,1,37.34,Central,Debit Card,CUST-166,37.34,October,2023
+ORD-1597,2023-03-13,Desk Lamp,Office,6,25.97,South,Credit Card,CUST-294,155.82,March,2023
+ORD-2000,2023-01-26,Headphones,Accessories,10,86.71,South,Cash,CUST-332,867.1,January,2023
+ORD-1752,2023-11-24,Headphones,Accessories,3,88.43,Central,Credit Card,CUST-407,265.29,November,2023
+ORD-1029,2023-08-16,USB Hub,Accessories,1,35.3,Central,Credit Card,CUST-342,35.3,August,2023
+ORD-2015,2023-07-26,Webcam,Electronics,2,72.82,East,Credit Card,CUST-320,145.64,July,2023
+ORD-1155,2023-02-18,Webcam,Electronics,7,67.61,North,Cash,CUST-113,473.27,February,2023
+ORD-1031,2023-05-01,Headphones,Accessories,8,78.15,South,Bank Transfer,CUST-486,625.2,May,2023
+ORD-1054,2023-05-05,Monitor,Electronics,8,331.61,West,Credit Card,CUST-282,2652.88,May,2023
+ORD-1413,2023-08-19,USB Hub,Accessories,7,41.88,East,Cash,CUST-297,293.16,August,2023
+ORD-1609,2023-11-08,USB Hub,Accessories,1,42.61,North,Bank Transfer,CUST-431,42.61,November,2023
+ORD-1070,2023-03-08,Headphones,Accessories,2,91.59,South,Bank Transfer,CUST-375,183.18,March,2023
+ORD-1261,2023-11-07,Keyboard,Accessories,7,50.99,North,Cash,CUST-386,356.93,November,2023
+ORD-1806,2023-04-20,Webcam,Electronics,9,67.57,East,Bank Transfer,CUST-440,608.13,April,2023
+ORD-1247,2023-11-02,Desk Lamp,Office,10,25.62,South,Bank Transfer,CUST-365,256.2,November,2023
+ORD-1453,2023-02-18,Monitor,Electronics,6,317.05,Central,Debit Card,UNKNOWN,1902.3,February,2023
+ORD-2083,2023-08-02,Keyboard,Accessories,3,56.11,Central,Debit Card,CUST-191,168.33,August,2023
+ORD-1447,2023-01-27,USB Hub,Accessories,2,36.97,South,Bank Transfer,UNKNOWN,73.94,January,2023
+ORD-1590,2023-06-21,USB Hub,Accessories,3,33.38,North,Bank Transfer,CUST-278,100.14,June,2023
+ORD-1390,2023-10-30,Webcam,Electronics,9,81.42,North,Bank Transfer,CUST-363,732.78,October,2023
+ORD-1536,2023-06-08,Monitor,Electronics,1,330.58,Central,Bank Transfer,CUST-330,330.58,June,2023
+ORD-1048,2023-11-25,Mouse,Accessories,8,34.96,East,Debit Card,CUST-257,279.68,November,2023
+ORD-1113,2023-12-18,Mouse,Accessories,9,21.17,South,PayPal,CUST-171,190.53,December,2023
+ORD-1721,2023-07-08,Laptop,Electronics,4,948.14,Central,Bank Transfer,CUST-414,3792.56,July,2023
+ORD-1259,2023-08-06,USB Hub,Accessories,3,35.63,Central,PayPal,CUST-213,106.89,August,2023
+ORD-1614,2023-05-02,Desk Lamp,Office,2,37.11,South,Cash,CUST-133,74.22,May,2023
+ORD-1425,2023-06-25,USB Hub,Accessories,7,41.45,East,Cash,CUST-319,290.15,June,2023
+ORD-1506,2023-02-21,Mouse,Accessories,7,26.71,Central,Credit Card,CUST-178,186.97,February,2023
+ORD-1355,2023-11-27,Monitor,Electronics,8,324.71,Central,Credit Card,CUST-223,2597.68,November,2023
+ORD-1107,2023-11-26,USB Hub,Accessories,8,37.77,East,Cash,CUST-247,302.16,November,2023
+ORD-2001,2023-05-25,Headphones,Accessories,5,89.02,Central,Bank Transfer,CUST-444,445.1,May,2023
+ORD-2027,2023-07-17,Keyboard,Accessories,7,61.1,South,Bank Transfer,CUST-114,427.7,July,2023
+ORD-1677,2023-11-26,Monitor,Electronics,5,317.26,Central,PayPal,CUST-403,1586.3,November,2023
+ORD-1210,2023-12-12,Charger,Accessories,1,27.78,West,Debit Card,CUST-284,27.78,December,2023
+ORD-2179,2023-02-10,Charger,Accessories,1,18.22,North,Bank Transfer,CUST-113,18.22,February,2023
+ORD-1570,2023-08-12,Keyboard,Accessories,2,66.48,South,Cash,CUST-180,132.96,August,2023
+ORD-1233,2023-11-21,Mouse,Accessories,6,36.92,South,Cash,CUST-450,221.52,November,2023
+ORD-2193,2023-02-25,Monitor,Electronics,2,326.27,East,Debit Card,CUST-462,652.54,February,2023
+ORD-1439,2023-07-06,Notebook,Office,9,5.17,North,Credit Card,CUST-367,46.53,July,2023
+ORD-1425,2023-06-25,USB Hub,Accessories,7,41.45,East,Cash,CUST-319,290.15,June,2023
+ORD-1722,2023-09-23,Charger,Accessories,5,31.98,Central,Bank Transfer,CUST-493,159.9,September,2023
+ORD-1620,2023-11-24,Mouse,Accessories,5,22.28,North,PayPal,CUST-375,111.4,November,2023
+ORD-1168,2023-02-17,Mouse,Accessories,8,38.84,East,Bank Transfer,UNKNOWN,310.72,February,2023
+ORD-1575,2023-01-14,Monitor,Electronics,6,321.76,Central,PayPal,CUST-353,1930.56,January,2023
+ORD-1654,2023-01-11,Charger,Accessories,9,21.25,West,PayPal,CUST-414,191.25,January,2023
+ORD-2178,2023-05-28,Mouse,Accessories,6,24.21,West,Bank Transfer,CUST-268,145.26,May,2023
+ORD-1363,2023-11-05,Mouse,Accessories,8,37.79,West,Cash,CUST-370,302.32,November,2023
+ORD-1528,2023-05-02,Mouse,Accessories,2,22.75,West,Cash,CUST-376,45.5,May,2023
+ORD-1174,2023-01-31,Keyboard,Accessories,7,68.97,South,Cash,CUST-161,482.79,January,2023
+ORD-1192,2023-09-17,Webcam,Electronics,1,72.83,North,Debit Card,CUST-291,72.83,September,2023
+ORD-1994,2023-08-23,Headphones,Accessories,5,75.34,East,Debit Card,CUST-160,376.7,August,2023
+ORD-1932,2023-10-07,Desk Lamp,Office,3,31.64,West,Bank Transfer,CUST-202,94.92,October,2023
+ORD-1976,2023-08-03,Keyboard,Accessories,6,69.52,South,Cash,CUST-217,417.12,August,2023
+ORD-1054,2023-05-05,Monitor,Electronics,8,331.61,West,Credit Card,CUST-282,2652.88,May,2023
+ORD-1875,2023-04-04,Headphones,Accessories,10,80.75,West,Debit Card,CUST-221,807.5,April,2023
+ORD-1398,2023-01-20,USB Hub,Accessories,1,30.58,West,Bank Transfer,CUST-156,30.58,January,2023
+ORD-2078,2023-01-09,Monitor,Electronics,3,317.69,North,Bank Transfer,CUST-289,953.07,January,2023
+ORD-1056,2023-10-17,Laptop,Electronics,3,947.61,Central,Credit Card,CUST-267,2842.83,October,2023
+ORD-1679,2023-12-17,Headphones,Accessories,8,76.17,West,Bank Transfer,CUST-239,609.36,December,2023
+ORD-1243,2023-07-09,Charger,Accessories,5,16.86,Central,Credit Card,CUST-280,84.3,July,2023
+ORD-1109,2023-02-01,Monitor,Electronics,6,321.38,East,PayPal,CUST-472,1928.28,February,2023
+ORD-1458,2023-05-10,Desk Lamp,Office,7,37.95,East,Bank Transfer,CUST-306,265.65,May,2023
+ORD-1649,2023-09-27,Laptop,Electronics,2,947.0,West,Bank Transfer,CUST-357,1894.0,September,2023
+ORD-1327,2023-11-13,Monitor,Electronics,8,331.68,West,Cash,UNKNOWN,2653.44,November,2023
+ORD-1973,2023-05-29,Mouse,Accessories,10,22.08,South,PayPal,CUST-431,220.8,May,2023
+ORD-1358,2023-02-22,Headphones,Accessories,3,80.51,North,Bank Transfer,UNKNOWN,241.53,February,2023
+ORD-2114,2023-06-10,Charger,Accessories,2,22.94,Central,Cash,CUST-323,45.88,June,2023
+ORD-1989,2023-09-12,Monitor,Electronics,6,319.55,West,Debit Card,CUST-176,1917.3,September,2023
+ORD-1617,2023-01-25,Notebook,Office,3,7.1,North,PayPal,CUST-272,21.3,January,2023
+ORD-1380,2023-11-18,Desk Lamp,Office,8,41.52,Central,Credit Card,CUST-401,332.16,November,2023
+ORD-1946,2023-08-14,Laptop,Electronics,4,964.18,South,PayPal,CUST-166,3856.72,August,2023
+ORD-1634,2023-05-30,Headphones,Accessories,1,75.05,North,Cash,CUST-111,75.05,May,2023
+ORD-1497,2023-04-20,Monitor,Electronics,10,332.53,West,Bank Transfer,CUST-134,3325.3,April,2023
+ORD-2080,2023-06-19,USB Hub,Accessories,1,47.56,South,Credit Card,CUST-386,47.56,June,2023
+ORD-1381,2023-06-11,Laptop,Electronics,6,950.39,Central,Cash,CUST-194,5702.34,June,2023
+ORD-1676,2023-06-23,Notebook,Office,6,20.94,Central,Debit Card,CUST-148,125.64,June,2023
+ORD-1970,2023-03-14,USB Hub,Accessories,9,45.47,Central,PayPal,CUST-110,409.23,March,2023
+ORD-1570,2023-08-12,Keyboard,Accessories,2,66.48,South,Cash,CUST-180,132.96,August,2023
+ORD-1566,2023-05-20,Webcam,Electronics,10,67.58,West,PayPal,CUST-392,675.8,May,2023
+ORD-1765,2023-12-14,Headphones,Accessories,3,79.43,East,PayPal,CUST-323,238.29,December,2023
+ORD-1962,2023-02-24,Laptop,Electronics,6,955.28,East,Cash,CUST-143,5731.68,February,2023
+ORD-1707,2023-12-02,USB Hub,Accessories,7,36.77,North,Cash,CUST-109,257.39,December,2023
+ORD-1682,2023-09-03,Notebook,Office,8,13.32,West,PayPal,CUST-371,106.56,September,2023
+ORD-1839,2023-04-13,Notebook,Office,6,11.45,East,Debit Card,CUST-291,68.7,April,2023
+ORD-1855,2023-07-23,USB Hub,Accessories,6,34.0,West,Cash,CUST-110,204.0,July,2023
+ORD-1170,2023-02-19,Keyboard,Accessories,5,52.02,East,PayPal,CUST-452,260.1,February,2023
+ORD-1312,2023-02-09,Monitor,Electronics,4,331.01,South,Cash,CUST-347,1324.04,February,2023
+ORD-1377,2023-11-22,Mouse,Accessories,1,22.69,East,Cash,CUST-343,22.69,November,2023
+ORD-1355,2023-11-27,Monitor,Electronics,8,324.71,Central,Credit Card,CUST-223,2597.68,November,2023
+ORD-2188,2023-05-19,Laptop,Electronics,7,946.12,Central,Bank Transfer,CUST-265,6622.84,May,2023
+ORD-1209,2023-11-11,Headphones,Accessories,10,89.18,West,PayPal,CUST-239,891.8,November,2023
+ORD-1660,2023-07-11,Webcam,Electronics,8,78.27,South,Credit Card,CUST-425,626.16,July,2023
+ORD-1715,2023-07-17,Monitor,Electronics,8,322.7,North,Credit Card,CUST-438,2581.6,July,2023
+ORD-1140,2023-02-20,Desk Lamp,Office,2,36.27,West,Credit Card,CUST-202,72.54,February,2023
+ORD-1900,2023-06-05,Headphones,Accessories,8,78.74,West,PayPal,CUST-477,629.92,June,2023
+ORD-1350,2023-09-29,Desk Lamp,Office,4,30.72,East,Credit Card,CUST-182,122.88,September,2023
+ORD-1618,2023-05-03,Notebook,Office,5,19.38,West,Bank Transfer,CUST-186,96.9,May,2023
+ORD-1823,2023-12-30,Monitor,Electronics,9,320.98,East,Credit Card,CUST-480,2888.82,December,2023
+ORD-1727,2023-08-09,Webcam,Electronics,3,69.82,Central,PayPal,CUST-130,209.46,August,2023
+ORD-1430,2023-01-21,Webcam,Electronics,1,70.38,North,Debit Card,CUST-288,70.38,January,2023
+ORD-1199,2023-06-29,Laptop,Electronics,4,949.42,North,PayPal,CUST-397,3797.68,June,2023
+ORD-2031,2023-05-24,Desk Lamp,Office,8,35.74,South,Cash,CUST-416,285.92,May,2023
+ORD-1270,2023-02-26,Charger,Accessories,1,18.99,East,Bank Transfer,CUST-158,18.99,February,2023
+ORD-1282,2023-11-03,Notebook,Office,2,8.7,Central,PayPal,CUST-171,17.4,November,2023
+ORD-1711,2023-07-08,Monitor,Electronics,7,328.23,South,Credit Card,CUST-195,2297.61,July,2023
+ORD-1010,2023-08-21,USB Hub,Accessories,1,35.22,Central,Debit Card,CUST-373,35.22,August,2023
+ORD-1147,2023-08-09,Monitor,Electronics,7,324.81,Central,Cash,CUST-254,2273.67,August,2023
+ORD-1643,2023-12-07,Monitor,Electronics,10,317.03,East,PayPal,CUST-151,3170.3,December,2023
+ORD-2156,2023-05-28,Webcam,Electronics,8,83.14,East,PayPal,CUST-192,665.12,May,2023
+ORD-1762,2023-01-16,Webcam,Electronics,7,79.32,West,Credit Card,CUST-337,555.24,January,2023
+ORD-1543,2023-08-25,Notebook,Office,10,20.22,North,PayPal,CUST-190,202.2,August,2023
+ORD-1377,2023-11-22,Mouse,Accessories,1,22.69,East,Cash,CUST-343,22.69,November,2023
+ORD-1163,2023-12-18,Monitor,Electronics,6,330.49,East,Bank Transfer,CUST-163,1982.94,December,2023
+ORD-1382,2023-03-19,Webcam,Electronics,1,73.34,Central,Bank Transfer,CUST-325,73.34,March,2023
+ORD-1964,2023-05-04,Monitor,Electronics,5,318.35,West,Debit Card,CUST-288,1591.75,May,2023
+ORD-1849,2023-10-10,Monitor,Electronics,6,331.95,West,Debit Card,CUST-174,1991.7,October,2023
+ORD-1984,2023-09-13,Monitor,Electronics,2,316.75,East,Debit Card,CUST-305,633.5,September,2023
+ORD-1331,2023-02-15,Webcam,Electronics,6,66.34,Central,Debit Card,CUST-486,398.04,February,2023
+ORD-1361,2023-04-12,Headphones,Accessories,3,88.87,South,Bank Transfer,CUST-490,266.61,April,2023
+ORD-1739,2023-08-17,USB Hub,Accessories,10,32.37,North,Cash,CUST-322,323.7,August,2023
+ORD-1424,2023-02-22,Monitor,Electronics,2,318.26,South,Credit Card,CUST-248,636.52,February,2023
+ORD-2140,2023-10-07,Mouse,Accessories,6,20.93,West,Cash,CUST-120,125.58,October,2023
+ORD-1944,2023-01-31,Charger,Accessories,3,27.27,South,Debit Card,CUST-432,81.81,January,2023
+ORD-1358,2023-02-22,Headphones,Accessories,3,80.51,North,Bank Transfer,CUST-134,241.53,February,2023
+ORD-1135,2023-05-31,USB Hub,Accessories,8,43.95,South,Credit Card,CUST-336,351.6,May,2023
+ORD-1917,2023-01-15,USB Hub,Accessories,3,43.24,North,PayPal,CUST-267,129.72,January,2023
+ORD-1275,2023-09-07,Laptop,Electronics,9,961.88,East,Debit Card,CUST-167,8656.92,September,2023
+ORD-1533,2023-04-30,Charger,Accessories,10,24.15,East,Bank Transfer,CUST-320,241.5,April,2023
+ORD-2046,2023-09-18,Webcam,Electronics,7,82.05,Central,Cash,CUST-451,574.35,September,2023
+ORD-1999,2023-01-25,Laptop,Electronics,10,960.12,South,Debit Card,CUST-495,9601.2,January,2023
+ORD-1158,2023-06-10,Mouse,Accessories,4,36.89,Central,Debit Card,CUST-234,147.56,June,2023
+ORD-2065,2023-07-21,Mouse,Accessories,5,32.33,North,Cash,CUST-443,161.65,July,2023
+ORD-2110,2023-02-26,Charger,Accessories,3,29.66,West,Cash,CUST-489,88.98,February,2023
+ORD-1783,2023-08-16,Monitor,Electronics,6,330.63,East,Bank Transfer,CUST-500,1983.78,August,2023
+ORD-2175,2023-03-16,Laptop,Electronics,1,959.41,West,Debit Card,CUST-355,959.41,March,2023
+ORD-1494,2023-07-05,Charger,Accessories,10,25.15,West,Debit Card,CUST-150,251.5,July,2023
+ORD-1994,2023-08-23,Headphones,Accessories,5,75.34,East,Debit Card,CUST-160,376.7,August,2023
+ORD-1847,2023-07-08,Mouse,Accessories,1,36.83,North,Debit Card,CUST-226,36.83,July,2023
+ORD-1096,2023-10-31,Charger,Accessories,9,25.52,South,Debit Card,CUST-279,229.68,October,2023
+ORD-1901,2023-11-11,Laptop,Electronics,5,948.48,Central,Cash,CUST-311,4742.4,November,2023
+ORD-1680,2023-08-26,Notebook,Office,4,23.85,North,Credit Card,CUST-134,95.4,August,2023
+ORD-1433,2023-08-13,Desk Lamp,Office,2,40.61,West,PayPal,CUST-445,81.22,August,2023
+ORD-1156,2023-06-10,Charger,Accessories,5,29.34,Central,Cash,CUST-101,146.7,June,2023
+ORD-1907,2023-10-31,Headphones,Accessories,3,86.68,Central,Credit Card,UNKNOWN,260.04,October,2023
+ORD-2165,2023-10-14,Mouse,Accessories,8,23.31,South,Cash,CUST-398,186.48,October,2023
+ORD-1298,2023-07-14,Monitor,Electronics,4,326.07,East,Bank Transfer,CUST-452,1304.28,July,2023
+ORD-2055,2023-09-23,Desk Lamp,Office,5,39.51,Central,Credit Card,CUST-137,197.55,September,2023
+ORD-1422,2023-02-01,Monitor,Electronics,2,320.7,North,Bank Transfer,CUST-383,641.4,February,2023
+ORD-1947,2023-08-01,Monitor,Electronics,9,328.65,East,Debit Card,CUST-404,2957.85,August,2023
+ORD-2153,2023-06-02,Monitor,Electronics,6,331.71,East,PayPal,CUST-147,1990.26,June,2023
+ORD-1435,2023-09-26,Laptop,Electronics,7,945.18,North,Credit Card,CUST-444,6616.26,September,2023
+ORD-2035,2023-03-02,Charger,Accessories,2,33.07,Central,Debit Card,CUST-398,66.14,March,2023
+ORD-1296,2023-03-31,Mouse,Accessories,10,39.41,Central,Credit Card,CUST-455,394.1,March,2023
+ORD-1948,2023-09-05,Desk Lamp,Office,8,31.42,North,Bank Transfer,UNKNOWN,251.36,September,2023
+ORD-1428,2023-11-27,Mouse,Accessories,9,32.95,South,Cash,CUST-343,296.55,November,2023
+ORD-2145,2023-12-21,Notebook,Office,4,21.59,Central,Bank Transfer,CUST-348,86.36,December,2023
+ORD-1636,2023-01-01,Headphones,Accessories,9,93.14,East,Bank Transfer,CUST-293,838.26,January,2023
+ORD-2100,2023-09-26,Headphones,Accessories,5,86.8,East,Bank Transfer,CUST-122,434.0,September,2023
+ORD-1582,2023-07-17,USB Hub,Accessories,10,48.96,North,Credit Card,CUST-245,489.6,July,2023
+ORD-1938,2023-12-17,Webcam,Electronics,2,81.47,South,Cash,CUST-156,162.94,December,2023
+ORD-1178,2023-06-18,USB Hub,Accessories,7,33.48,North,Cash,CUST-134,234.36,June,2023
+ORD-1990,2023-01-12,Notebook,Office,7,10.17,South,Cash,CUST-145,71.19,January,2023
+ORD-1665,2023-06-26,Keyboard,Accessories,9,67.57,East,Debit Card,CUST-235,608.13,June,2023
+ORD-2007,2023-05-27,Desk Lamp,Office,9,26.73,Central,Debit Card,CUST-197,240.57,May,2023
+ORD-1294,2023-09-12,Monitor,Electronics,2,321.88,West,Credit Card,CUST-213,643.76,September,2023
+ORD-1936,2023-09-05,Webcam,Electronics,4,75.61,North,Debit Card,CUST-394,302.44,September,2023
+ORD-1710,2023-03-05,Webcam,Electronics,7,66.9,North,Cash,CUST-364,468.3,March,2023
+ORD-1409,2023-08-25,Monitor,Electronics,9,327.71,East,Bank Transfer,CUST-142,2949.39,August,2023
+ORD-2057,2023-03-18,Notebook,Office,9,11.62,West,Bank Transfer,CUST-385,104.58,March,2023
+ORD-2033,2023-12-15,Webcam,Electronics,1,71.09,West,Bank Transfer,CUST-227,71.09,December,2023
+ORD-1774,2023-07-16,Monitor,Electronics,3,317.81,East,Credit Card,CUST-232,953.43,July,2023
+ORD-1591,2023-03-16,Charger,Accessories,7,22.33,Central,Debit Card,CUST-479,156.31,March,2023
+ORD-2061,2023-06-17,Monitor,Electronics,6,327.39,Central,PayPal,CUST-220,1964.34,June,2023
+ORD-1941,2023-08-21,Desk Lamp,Office,4,38.38,North,Bank Transfer,CUST-364,153.52,August,2023
+ORD-2096,2023-01-27,Charger,Accessories,7,25.14,South,Debit Card,CUST-172,175.98,January,2023
+ORD-1290,2023-05-29,Keyboard,Accessories,7,51.23,Central,Cash,CUST-255,358.61,May,2023
+ORD-1285,2023-04-15,Desk Lamp,Office,2,33.92,Central,Debit Card,CUST-367,67.84,April,2023
+ORD-1049,2023-11-24,Desk Lamp,Office,5,30.0,North,Credit Card,CUST-112,150.0,November,2023
+ORD-1968,2023-08-19,Laptop,Electronics,3,946.31,West,Bank Transfer,CUST-392,2838.93,August,2023
+ORD-1266,2023-09-20,Charger,Accessories,4,23.55,North,Debit Card,CUST-464,94.2,September,2023
+ORD-1059,2023-10-11,Mouse,Accessories,5,32.61,West,PayPal,CUST-428,163.05,October,2023
+ORD-1411,2023-10-11,Keyboard,Accessories,6,50.61,Central,PayPal,CUST-352,303.66,October,2023
+ORD-2018,2023-07-25,Notebook,Office,10,24.2,South,Credit Card,UNKNOWN,242.0,July,2023
+ORD-1798,2023-09-23,Charger,Accessories,2,33.71,West,Cash,CUST-171,67.42,September,2023
+ORD-1746,2023-08-17,Laptop,Electronics,10,946.82,North,Cash,CUST-236,9468.2,August,2023
+ORD-1713,2023-07-24,Headphones,Accessories,10,81.91,West,PayPal,CUST-355,819.1,July,2023
+ORD-1411,2023-10-11,Keyboard,Accessories,6,50.61,Central,PayPal,CUST-352,303.66,October,2023
+ORD-1609,2023-11-08,USB Hub,Accessories,1,42.61,North,Bank Transfer,CUST-431,42.61,November,2023
+ORD-1529,2023-08-16,USB Hub,Accessories,6,34.01,South,Credit Card,CUST-379,204.06,August,2023
+ORD-1985,2023-09-21,Charger,Accessories,3,16.09,East,PayPal,CUST-416,48.27,September,2023
+ORD-1070,2023-03-08,Headphones,Accessories,2,91.59,South,Cash,CUST-375,183.18,March,2023
+ORD-1367,2023-04-01,Laptop,Electronics,9,963.42,East,Bank Transfer,CUST-244,8670.78,April,2023
+ORD-1344,2023-06-20,Headphones,Accessories,3,86.76,South,PayPal,CUST-174,260.28,June,2023
+ORD-1745,2023-06-29,Charger,Accessories,8,15.0,East,Cash,CUST-311,120.0,June,2023
+ORD-1816,2023-03-30,Notebook,Office,2,24.27,Central,Credit Card,CUST-495,48.54,March,2023
+ORD-2058,2023-11-07,Mouse,Accessories,4,22.56,Central,PayPal,CUST-130,90.24,November,2023
+ORD-1479,2023-07-12,USB Hub,Accessories,10,43.11,South,Debit Card,CUST-348,431.1,July,2023
+ORD-1342,2023-06-23,Laptop,Electronics,7,953.29,West,Bank Transfer,CUST-114,6673.03,June,2023
+ORD-1083,2023-01-09,Laptop,Electronics,5,950.6,North,Bank Transfer,CUST-128,4753.0,January,2023
+ORD-1129,2023-10-08,Mouse,Accessories,10,27.1,West,Bank Transfer,CUST-309,271.0,October,2023
+ORD-1704,2023-05-27,Desk Lamp,Office,7,36.3,North,Bank Transfer,CUST-490,254.1,May,2023
+ORD-1427,2023-09-16,Headphones,Accessories,7,92.14,South,Cash,CUST-135,644.98,September,2023
+ORD-1171,2023-07-10,Keyboard,Accessories,7,56.04,West,Bank Transfer,CUST-430,392.28,July,2023
+ORD-1534,2023-10-01,Laptop,Electronics,6,951.33,North,Cash,CUST-160,5707.98,October,2023
+ORD-1260,2023-09-06,Laptop,Electronics,5,949.75,South,PayPal,CUST-196,4748.75,September,2023
+ORD-1605,2023-05-12,Charger,Accessories,10,25.95,South,PayPal,CUST-438,259.5,May,2023
+ORD-1922,2023-05-16,USB Hub,Accessories,4,36.36,East,PayPal,CUST-126,145.44,May,2023
+ORD-2004,2023-12-01,Charger,Accessories,4,17.12,North,Credit Card,CUST-214,68.48,December,2023
+ORD-1631,2023-10-22,Webcam,Electronics,9,69.15,North,PayPal,CUST-456,622.35,October,2023
+ORD-1332,2023-08-12,Mouse,Accessories,7,27.76,South,PayPal,CUST-149,194.32,August,2023
+ORD-1138,2023-11-06,Laptop,Electronics,10,959.01,Central,Cash,CUST-486,9590.1,November,2023
+ORD-1292,2023-03-03,Notebook,Office,10,18.35,West,Credit Card,CUST-481,183.5,March,2023
+ORD-2042,2023-07-07,Keyboard,Accessories,9,66.69,East,PayPal,CUST-168,600.21,July,2023
+ORD-1503,2023-03-21,Desk Lamp,Office,3,40.26,Central,Cash,CUST-409,120.78,March,2023
+ORD-1141,2023-12-26,Keyboard,Accessories,9,61.26,West,Debit Card,CUST-195,551.34,December,2023
+ORD-1621,2023-11-15,USB Hub,Accessories,3,32.13,North,Cash,CUST-266,96.39,November,2023
+ORD-1892,2023-02-10,Charger,Accessories,8,30.1,West,Credit Card,CUST-429,240.8,February,2023
+ORD-1486,2023-09-27,Laptop,Electronics,8,956.44,South,PayPal,UNKNOWN,7651.52,September,2023
+ORD-1139,2023-08-09,Headphones,Accessories,8,93.95,North,Debit Card,CUST-170,751.6,August,2023
+ORD-1471,2023-12-06,USB Hub,Accessories,9,45.31,Central,Debit Card,CUST-487,407.79,December,2023
+ORD-1958,2023-03-08,Headphones,Accessories,7,83.91,South,Credit Card,CUST-403,587.37,March,2023
+ORD-1224,2023-06-29,Webcam,Electronics,4,72.57,South,Debit Card,CUST-193,290.28,June,2023
+ORD-1274,2023-10-31,Monitor,Electronics,9,316.64,Central,Credit Card,CUST-159,2849.76,October,2023
+ORD-1323,2023-07-27,Notebook,Office,9,24.77,East,Bank Transfer,CUST-340,222.93,July,2023
+ORD-1908,2023-10-25,Notebook,Office,10,10.1,Central,Debit Card,CUST-233,101.0,October,2023
+ORD-2163,2023-09-03,Headphones,Accessories,10,85.04,North,Bank Transfer,CUST-399,850.4,September,2023
+ORD-1788,2023-07-07,Headphones,Accessories,7,91.75,South,Credit Card,CUST-408,642.25,July,2023
+ORD-1430,2023-01-21,Webcam,Electronics,1,70.38,North,Debit Card,CUST-288,70.38,January,2023
+ORD-1650,2023-10-06,Notebook,Office,1,8.49,East,Credit Card,CUST-491,8.49,October,2023
+ORD-1584,2023-07-11,Monitor,Electronics,5,323.07,West,Credit Card,UNKNOWN,1615.35,July,2023
+ORD-1371,2023-10-16,Keyboard,Accessories,1,56.06,Central,Debit Card,CUST-102,56.06,October,2023
+ORD-1700,2023-05-10,Keyboard,Accessories,9,64.09,East,Debit Card,CUST-419,576.81,May,2023
+ORD-1825,2023-10-09,Desk Lamp,Office,7,42.21,South,Cash,CUST-316,295.47,October,2023
+ORD-1858,2023-07-30,Charger,Accessories,10,20.73,Central,Credit Card,CUST-117,207.3,July,2023
+ORD-2103,2023-07-14,Mouse,Accessories,8,30.87,West,Credit Card,CUST-243,246.96,July,2023
+ORD-1561,2023-09-22,Charger,Accessories,2,28.53,East,PayPal,CUST-351,57.06,September,2023
+ORD-1953,2023-03-15,Laptop,Electronics,7,950.66,West,Debit Card,CUST-476,6654.62,March,2023
+ORD-1538,2023-04-10,Charger,Accessories,7,27.62,East,PayPal,CUST-292,193.34,April,2023
+ORD-1838,2023-03-04,Headphones,Accessories,10,88.89,North,Bank Transfer,CUST-373,888.9,March,2023
+ORD-1551,2023-11-06,Keyboard,Accessories,5,58.07,East,Credit Card,CUST-320,290.35,November,2023
+ORD-1670,2023-10-25,Headphones,Accessories,2,94.25,South,Bank Transfer,CUST-215,188.5,October,2023
+ORD-1321,2023-05-29,Charger,Accessories,5,17.52,Central,PayPal,CUST-403,87.6,May,2023
+ORD-1626,2023-11-02,Headphones,Accessories,10,79.03,East,Bank Transfer,CUST-390,790.3,November,2023
+ORD-1720,2023-09-12,Webcam,Electronics,4,77.87,Central,Bank Transfer,CUST-372,311.48,September,2023
+ORD-2167,2023-05-28,Mouse,Accessories,10,32.87,West,PayPal,CUST-369,328.7,May,2023
+ORD-1532,2023-08-18,Desk Lamp,Office,10,43.13,South,Cash,CUST-116,431.3,August,2023
+ORD-1039,2023-02-01,Webcam,Electronics,2,69.96,North,Credit Card,CUST-452,139.92,February,2023
+ORD-1030,2023-08-16,Webcam,Electronics,7,67.4,North,Cash,CUST-248,471.8,August,2023
+ORD-1242,2023-03-22,Headphones,Accessories,7,92.96,East,PayPal,UNKNOWN,650.72,March,2023
+ORD-1869,2023-09-22,Monitor,Electronics,3,332.3,East,Cash,CUST-427,996.9,September,2023
+ORD-1136,2023-08-21,Keyboard,Accessories,2,68.28,East,PayPal,CUST-463,136.56,August,2023
+ORD-1310,2023-01-10,Monitor,Electronics,4,325.04,Central,PayPal,CUST-109,1300.16,January,2023
+ORD-1842,2023-09-10,Notebook,Office,3,14.61,Central,Debit Card,CUST-262,43.83,September,2023
+ORD-2187,2023-10-03,Charger,Accessories,4,26.45,East,Debit Card,CUST-154,105.8,October,2023
+ORD-1423,2023-08-19,Laptop,Electronics,1,952.73,South,PayPal,CUST-308,952.73,August,2023
+ORD-1135,2023-05-31,USB Hub,Accessories,8,43.95,South,Credit Card,UNKNOWN,351.6,May,2023
+ORD-1481,2023-06-18,Notebook,Office,10,10.19,West,Cash,CUST-242,101.9,June,2023
+ORD-1003,2023-09-10,Monitor,Electronics,1,317.67,South,Credit Card,CUST-262,317.67,September,2023
+ORD-1111,2023-07-25,Desk Lamp,Office,9,42.92,South,Cash,CUST-473,386.28,July,2023
+ORD-2128,2023-04-17,Laptop,Electronics,3,954.67,Central,Credit Card,CUST-127,2864.01,April,2023
+ORD-1490,2023-08-05,USB Hub,Accessories,9,40.69,Central,Cash,CUST-218,366.21,August,2023
+ORD-1588,2023-02-20,Laptop,Electronics,8,959.68,South,Bank Transfer,CUST-165,7677.44,February,2023
+ORD-1937,2023-05-06,Headphones,Accessories,7,94.93,South,Bank Transfer,CUST-142,664.51,May,2023
+ORD-1848,2023-08-28,Keyboard,Accessories,10,55.72,Central,Bank Transfer,CUST-242,557.2,August,2023
+ORD-1376,2023-11-26,Laptop,Electronics,3,962.38,North,PayPal,CUST-462,2887.14,November,2023
+ORD-1552,2023-03-12,Charger,Accessories,8,34.31,South,PayPal,CUST-168,274.48,March,2023
+ORD-1872,2023-10-10,Desk Lamp,Office,7,29.75,South,Bank Transfer,CUST-450,208.25,October,2023
+ORD-1314,2023-10-22,USB Hub,Accessories,6,42.41,West,Bank Transfer,CUST-320,254.46,October,2023
+ORD-2037,2023-02-19,Desk Lamp,Office,5,33.25,Central,PayPal,CUST-431,166.25,February,2023
+ORD-1319,2023-11-24,Mouse,Accessories,6,39.44,West,Credit Card,CUST-437,236.64,November,2023
+ORD-2091,2023-05-16,Notebook,Office,3,10.26,South,Cash,CUST-145,30.78,May,2023
+ORD-1732,2023-06-14,Headphones,Accessories,2,83.07,North,Credit Card,CUST-175,166.14,June,2023
+ORD-1005,2023-02-19,Keyboard,Accessories,7,51.5,Central,PayPal,CUST-175,360.5,February,2023
+ORD-1100,2023-04-24,Monitor,Electronics,6,334.79,West,Cash,CUST-144,2008.74,April,2023
+ORD-1723,2023-05-17,Webcam,Electronics,2,82.04,East,Debit Card,CUST-322,164.08,May,2023
+ORD-1579,2023-09-15,Webcam,Electronics,8,83.03,East,Bank Transfer,CUST-446,664.24,September,2023
+ORD-1813,2023-03-11,USB Hub,Accessories,9,48.32,East,Debit Card,UNKNOWN,434.88,March,2023
+ORD-1911,2023-12-04,Charger,Accessories,1,18.1,Central,Bank Transfer,CUST-280,18.1,December,2023
+ORD-1925,2023-10-20,Mouse,Accessories,3,21.36,East,Credit Card,CUST-194,64.08,October,2023
+ORD-1977,2023-05-08,Charger,Accessories,4,30.5,Central,Credit Card,CUST-145,122.0,May,2023
+ORD-1693,2023-01-22,Charger,Accessories,1,17.61,South,Credit Card,CUST-439,17.61,January,2023
+ORD-2186,2023-04-14,Monitor,Electronics,9,315.78,East,Debit Card,CUST-402,2842.02,April,2023
+ORD-1227,2023-03-15,Charger,Accessories,1,24.59,West,Bank Transfer,CUST-406,24.59,March,2023
+ORD-1527,2023-12-13,Laptop,Electronics,1,962.08,East,PayPal,CUST-275,962.08,December,2023
+ORD-1598,2023-12-28,Desk Lamp,Office,7,44.89,North,PayPal,CUST-149,314.23,December,2023
+ORD-2168,2023-03-04,Keyboard,Accessories,8,54.23,North,Debit Card,CUST-492,433.84,March,2023
+ORD-2030,2023-10-09,Keyboard,Accessories,3,61.93,West,Credit Card,CUST-220,185.79,October,2023
+ORD-1066,2023-11-02,Keyboard,Accessories,9,68.05,Central,Debit Card,CUST-242,612.45,November,2023
+ORD-1777,2023-11-06,Headphones,Accessories,3,77.14,Central,Cash,CUST-381,231.42,November,2023
+ORD-1067,2023-01-02,Webcam,Electronics,6,73.87,Central,PayPal,CUST-200,443.22,January,2023
+ORD-1429,2023-03-30,Headphones,Accessories,8,88.55,West,Bank Transfer,CUST-447,708.4,March,2023
+ORD-1211,2023-11-26,Monitor,Electronics,4,332.73,Central,Cash,CUST-314,1330.92,November,2023
+ORD-1012,2023-12-10,Laptop,Electronics,3,961.02,South,Bank Transfer,CUST-162,2883.06,December,2023
+ORD-1578,2023-07-22,USB Hub,Accessories,6,36.85,South,Debit Card,CUST-415,221.1,July,2023
+ORD-1846,2023-10-21,Headphones,Accessories,4,89.96,East,PayPal,CUST-449,359.84,October,2023
+ORD-1299,2023-09-30,Notebook,Office,8,21.82,North,Credit Card,CUST-216,174.56,September,2023
+ORD-1864,2023-11-25,Charger,Accessories,1,15.65,Central,Credit Card,CUST-222,15.65,November,2023
+ORD-2148,2023-09-05,Mouse,Accessories,7,30.89,Central,Debit Card,CUST-157,216.23,September,2023
+ORD-1759,2023-09-20,USB Hub,Accessories,6,42.4,South,Debit Card,CUST-114,254.4,September,2023
+ORD-1778,2023-03-20,Notebook,Office,3,17.22,West,Debit Card,CUST-190,51.66,March,2023
+ORD-1240,2023-08-21,USB Hub,Accessories,9,44.64,South,Credit Card,CUST-149,401.76,August,2023
+ORD-1461,2023-03-18,Webcam,Electronics,3,67.16,Central,Debit Card,CUST-317,201.48,March,2023
+ORD-1793,2023-05-08,Laptop,Electronics,8,964.12,Central,Bank Transfer,CUST-443,7712.96,May,2023
+ORD-2137,2023-08-24,Notebook,Office,5,12.23,North,Credit Card,CUST-323,61.15,August,2023
+ORD-2195,2023-10-28,Charger,Accessories,4,29.39,Central,PayPal,CUST-345,117.56,October,2023
+ORD-2115,2023-08-03,Mouse,Accessories,10,30.04,South,PayPal,CUST-184,300.4,August,2023
+ORD-1644,2023-12-09,Mouse,Accessories,1,25.12,Central,Cash,CUST-453,25.12,December,2023
+ORD-2107,2023-01-17,Headphones,Accessories,1,82.32,South,Bank Transfer,CUST-244,82.32,January,2023
+ORD-1273,2023-12-14,Headphones,Accessories,7,80.84,West,Cash,CUST-139,565.88,December,2023
+ORD-1731,2023-05-31,Notebook,Office,8,17.87,West,Cash,CUST-336,142.96,May,2023
+ORD-1362,2023-03-30,Laptop,Electronics,9,945.78,East,Debit Card,CUST-107,8512.02,March,2023
+ORD-1237,2023-04-21,Desk Lamp,Office,4,26.48,East,Bank Transfer,CUST-457,105.92,April,2023
+ORD-2172,2023-07-14,Webcam,Electronics,3,67.37,Central,PayPal,CUST-139,202.11,July,2023
+ORD-1523,2023-08-13,Charger,Accessories,9,32.35,Central,Cash,CUST-351,291.15,August,2023
+ORD-1002,2023-06-05,Headphones,Accessories,4,76.91,South,Bank Transfer,CUST-440,307.64,June,2023
+ORD-1006,2023-05-01,Mouse,Accessories,6,31.36,South,Cash,CUST-290,188.16,May,2023
+ORD-1370,2023-08-26,Headphones,Accessories,1,91.35,Central,PayPal,CUST-375,91.35,August,2023
+ORD-1311,2023-08-24,Webcam,Electronics,7,83.01,East,Debit Card,CUST-496,581.07,August,2023
+ORD-2099,2023-03-29,Charger,Accessories,2,23.1,West,PayPal,CUST-260,46.2,March,2023
+ORD-1462,2023-06-20,USB Hub,Accessories,10,31.28,East,PayPal,CUST-471,312.8,June,2023
+ORD-1581,2023-05-01,Charger,Accessories,7,18.77,Central,Cash,CUST-492,131.39,May,2023
+ORD-1724,2023-02-12,Keyboard,Accessories,10,67.39,Central,Credit Card,CUST-389,673.9,February,2023
+ORD-2005,2023-12-11,Keyboard,Accessories,9,65.74,North,Bank Transfer,CUST-465,591.66,December,2023
+ORD-1215,2023-12-03,Notebook,Office,10,6.36,West,PayPal,CUST-248,63.6,December,2023
+ORD-1493,2023-01-10,Webcam,Electronics,3,78.44,East,Bank Transfer,CUST-115,235.32,January,2023
+ORD-1027,2023-07-09,Laptop,Electronics,7,949.15,West,Bank Transfer,CUST-461,6644.05,July,2023
+ORD-1362,2023-03-30,Laptop,Electronics,9,945.78,Central,Debit Card,CUST-107,8512.02,March,2023
+ORD-2149,2023-04-09,Headphones,Accessories,2,78.48,West,Credit Card,CUST-468,156.96,April,2023
+ORD-1482,2023-03-07,Notebook,Office,7,13.37,East,Bank Transfer,CUST-175,93.59,March,2023
+ORD-2022,2023-04-10,Laptop,Electronics,6,960.9,East,Bank Transfer,CUST-196,5765.4,April,2023
+ORD-1554,2023-01-27,Headphones,Accessories,2,75.75,North,Credit Card,CUST-466,151.5,January,2023
+ORD-1553,2023-05-09,Charger,Accessories,3,22.67,West,Cash,CUST-259,68.01,May,2023
+ORD-1930,2023-09-12,Headphones,Accessories,2,79.42,East,Debit Card,CUST-101,158.84,September,2023
+ORD-1610,2023-09-28,Keyboard,Accessories,8,56.02,South,Bank Transfer,CUST-259,448.16,September,2023
+ORD-1354,2023-06-29,Notebook,Office,5,12.66,Central,Bank Transfer,CUST-413,63.3,June,2023
+ORD-2121,2023-09-14,Headphones,Accessories,1,85.28,West,Bank Transfer,CUST-384,85.28,September,2023
+ORD-1624,2023-02-26,Keyboard,Accessories,2,55.26,Central,Cash,CUST-436,110.52,February,2023
+ORD-1256,2023-05-20,Charger,Accessories,6,29.44,South,PayPal,CUST-211,176.64,May,2023
+ORD-1291,2023-06-17,Mouse,Accessories,10,35.04,East,Bank Transfer,CUST-114,350.4,June,2023
+ORD-1025,2023-01-17,Notebook,Office,1,15.72,Central,Bank Transfer,CUST-269,15.72,January,2023
+ORD-1336,2023-10-29,Keyboard,Accessories,3,59.16,Central,Credit Card,CUST-205,177.48,October,2023
+ORD-1513,2023-11-13,Laptop,Electronics,8,950.21,South,Bank Transfer,CUST-438,7601.68,November,2023
+ORD-1047,2023-04-19,USB Hub,Accessories,9,39.04,Central,Cash,CUST-159,351.36,April,2023
+ORD-1318,2023-12-30,Webcam,Electronics,9,84.69,Central,Bank Transfer,CUST-116,762.21,December,2023
+ORD-1106,2023-08-23,Notebook,Office,3,15.05,East,Bank Transfer,CUST-326,45.15,August,2023
+ORD-1915,2023-10-16,Keyboard,Accessories,1,68.65,East,Credit Card,CUST-380,68.65,October,2023
+ORD-1055,2023-03-06,Mouse,Accessories,5,39.65,East,Debit Card,CUST-147,198.25,March,2023
+ORD-1596,2023-12-23,USB Hub,Accessories,4,40.69,East,PayPal,CUST-274,162.76,December,2023
+ORD-1213,2023-01-14,Keyboard,Accessories,2,55.3,South,Debit Card,CUST-282,110.6,January,2023
+ORD-1120,2023-06-14,Mouse,Accessories,9,33.14,East,Bank Transfer,CUST-343,298.26,June,2023
+ORD-1889,2023-06-27,Headphones,Accessories,10,93.23,Central,PayPal,CUST-423,932.3,June,2023
+ORD-1541,2023-10-20,Desk Lamp,Office,9,25.09,South,Credit Card,CUST-118,225.81,October,2023
+ORD-1594,2023-05-27,Headphones,Accessories,8,92.53,West,Debit Card,CUST-491,740.24,May,2023
+ORD-1072,2023-05-09,Notebook,Office,3,5.85,North,Debit Card,CUST-446,17.55,May,2023
+ORD-1410,2023-10-25,Headphones,Accessories,5,77.48,East,Cash,CUST-267,387.4,October,2023
+ORD-1993,2023-09-16,Mouse,Accessories,4,28.66,North,Cash,CUST-390,114.64,September,2023
+ORD-2117,2023-07-31,USB Hub,Accessories,4,46.96,North,Cash,CUST-477,187.84,July,2023
+ORD-1811,2023-04-13,Mouse,Accessories,8,27.69,East,Debit Card,CUST-354,221.52,April,2023
+ORD-1432,2023-12-29,USB Hub,Accessories,3,30.4,Central,Credit Card,CUST-106,91.2,December,2023
+ORD-1935,2023-06-04,Mouse,Accessories,5,35.05,West,Credit Card,CUST-260,175.25,June,2023
+ORD-1045,2023-02-16,Desk Lamp,Office,8,25.62,West,PayPal,CUST-447,204.96,February,2023
+ORD-1390,2023-10-30,Webcam,Electronics,9,81.42,North,Bank Transfer,CUST-363,732.78,October,2023
+ORD-1629,2023-11-20,Monitor,Electronics,7,315.79,South,PayPal,CUST-236,2210.53,November,2023
+ORD-2048,2023-09-14,USB Hub,Accessories,2,48.65,South,Bank Transfer,CUST-465,97.3,September,2023
+ORD-1535,2023-05-03,Desk Lamp,Office,7,39.31,West,PayPal,CUST-296,275.17,May,2023
+ORD-1940,2023-06-02,USB Hub,Accessories,1,30.18,South,PayPal,CUST-227,30.18,June,2023
+ORD-1325,2023-06-16,Mouse,Accessories,8,39.95,West,Debit Card,CUST-229,319.6,June,2023
+ORD-2197,2023-05-05,USB Hub,Accessories,7,35.67,Central,Debit Card,CUST-421,249.69,May,2023
+ORD-2172,2023-07-14,Webcam,Electronics,3,67.37,Central,PayPal,CUST-139,202.11,July,2023
+ORD-1316,2023-10-21,Headphones,Accessories,7,90.14,East,Debit Card,CUST-200,630.98,October,2023
+ORD-1874,2023-10-28,Keyboard,Accessories,3,65.98,West,Debit Card,CUST-373,197.94,October,2023
+ORD-1949,2023-08-26,Webcam,Electronics,1,83.32,East,Debit Card,CUST-310,83.32,August,2023
+ORD-1465,2023-12-06,Notebook,Office,7,22.23,South,Credit Card,CUST-491,155.61,December,2023
+ORD-1602,2023-01-03,Monitor,Electronics,2,328.79,East,Bank Transfer,CUST-310,657.58,January,2023
+ORD-1780,2023-08-19,Notebook,Office,8,23.6,East,Bank Transfer,CUST-121,188.8,August,2023
+ORD-2094,2023-10-23,Charger,Accessories,1,16.51,North,Cash,CUST-371,16.51,October,2023
+ORD-1573,2023-08-19,USB Hub,Accessories,1,44.56,West,Debit Card,CUST-300,44.56,August,2023
+ORD-1060,2023-04-17,Monitor,Electronics,10,327.89,South,PayPal,CUST-199,3278.9,April,2023
+ORD-1092,2023-09-01,Webcam,Electronics,8,70.6,East,Cash,CUST-290,564.8,September,2023
+ORD-2139,2023-06-25,Keyboard,Accessories,10,59.09,North,Bank Transfer,CUST-353,590.9,June,2023
+ORD-1194,2023-03-21,Notebook,Office,8,24.3,South,Cash,CUST-475,194.4,March,2023
+ORD-1280,2023-04-23,Laptop,Electronics,4,946.82,West,PayPal,CUST-453,3787.28,April,2023
+ORD-1359,2023-03-16,Desk Lamp,Office,6,27.88,South,Bank Transfer,CUST-150,167.28,March,2023
+ORD-1519,2023-04-03,USB Hub,Accessories,3,48.89,North,Debit Card,CUST-203,146.67,April,2023
+ORD-1879,2023-01-29,Keyboard,Accessories,8,69.13,North,Bank Transfer,CUST-301,553.04,January,2023
+ORD-1182,2023-07-01,Headphones,Accessories,3,90.74,Central,Cash,CUST-397,272.22,July,2023
+ORD-1110,2023-09-03,Keyboard,Accessories,7,54.38,West,Cash,CUST-317,380.66,September,2023
+ORD-1808,2023-05-27,Laptop,Electronics,3,957.01,East,Cash,CUST-496,2871.03,May,2023
+ORD-1818,2023-02-14,Keyboard,Accessories,9,59.06,Central,Cash,CUST-268,531.54,February,2023
+ORD-1204,2023-10-21,Laptop,Electronics,5,949.76,Central,Credit Card,CUST-454,4748.8,October,2023
+ORD-1803,2023-05-14,Charger,Accessories,1,18.54,North,Credit Card,CUST-356,18.54,May,2023
+ORD-1924,2023-04-18,Webcam,Electronics,5,68.68,East,Bank Transfer,CUST-428,343.4,April,2023
+ORD-1714,2023-08-14,Charger,Accessories,4,28.53,South,Credit Card,CUST-209,114.12,August,2023
+ORD-1628,2023-01-09,Webcam,Electronics,10,70.91,South,PayPal,CUST-315,709.1,January,2023
+ORD-1651,2023-09-17,Keyboard,Accessories,2,50.79,South,Cash,CUST-441,101.58,September,2023
+ORD-1183,2023-12-07,USB Hub,Accessories,6,34.46,East,PayPal,CUST-346,206.76,December,2023
+ORD-1137,2023-09-16,Charger,Accessories,4,15.56,North,PayPal,CUST-390,62.24,September,2023
+ORD-1718,2023-09-12,Notebook,Office,7,24.76,West,Cash,CUST-237,173.32,September,2023
+ORD-1080,2023-05-02,Desk Lamp,Office,8,28.46,Central,PayPal,CUST-408,227.68,May,2023
+ORD-1906,2023-03-28,Laptop,Electronics,10,947.6,South,PayPal,CUST-182,9476.0,March,2023
+ORD-1545,2023-07-15,Charger,Accessories,3,30.29,North,PayPal,CUST-437,90.87,July,2023
+ORD-1165,2023-02-04,Mouse,Accessories,9,37.21,North,Bank Transfer,CUST-440,334.89,February,2023
+ORD-1248,2023-02-13,Mouse,Accessories,3,38.85,South,Credit Card,CUST-244,116.55,February,2023
+ORD-1307,2023-07-23,Desk Lamp,Office,8,26.58,Central,Cash,CUST-490,212.64,July,2023
+ORD-1873,2023-11-24,Monitor,Electronics,8,330.69,North,Debit Card,CUST-162,2645.52,November,2023
+ORD-2134,2023-07-12,Webcam,Electronics,4,65.86,Central,Debit Card,CUST-183,263.44,July,2023
+ORD-1334,2023-05-05,Webcam,Electronics,10,71.52,East,Bank Transfer,CUST-163,715.2,May,2023
+ORD-1097,2023-02-25,Keyboard,Accessories,5,62.62,West,Cash,CUST-257,313.1,February,2023
+ORD-1560,2023-12-31,Headphones,Accessories,8,78.81,South,Credit Card,CUST-445,630.48,December,2023
+ORD-2092,2023-12-02,Keyboard,Accessories,5,67.73,North,Credit Card,CUST-262,338.65,December,2023
+ORD-1967,2023-05-17,Desk Lamp,Office,3,25.15,North,Debit Card,CUST-293,75.45,May,2023
+ORD-1865,2023-02-07,Mouse,Accessories,5,36.28,East,Credit Card,CUST-229,181.4,February,2023
+ORD-1785,2023-10-21,Monitor,Electronics,8,317.16,West,Bank Transfer,CUST-128,2537.28,October,2023
+ORD-2138,2023-09-30,Headphones,Accessories,2,84.39,Central,PayPal,CUST-159,168.78,September,2023
+ORD-2157,2023-12-27,Desk Lamp,Office,1,35.33,Central,PayPal,CUST-186,35.33,December,2023
+ORD-1302,2023-09-14,Notebook,Office,5,15.71,West,Bank Transfer,CUST-207,78.55,September,2023
+ORD-2049,2023-01-21,Mouse,Accessories,9,39.89,South,Bank Transfer,CUST-296,359.01,January,2023
+ORD-1388,2023-06-05,Laptop,Electronics,1,960.19,West,Cash,CUST-317,960.19,June,2023
+ORD-1235,2023-02-16,Monitor,Electronics,10,321.37,North,Debit Card,CUST-238,3213.7,February,2023
+ORD-1979,2023-06-17,Desk Lamp,Office,7,43.8,North,Bank Transfer,CUST-201,306.6,June,2023
+ORD-1812,2023-03-04,Mouse,Accessories,9,39.59,North,Credit Card,CUST-146,356.31,March,2023
+ORD-1305,2023-07-01,Notebook,Office,4,22.63,East,Cash,CUST-317,90.52,July,2023
+ORD-1881,2023-09-23,Notebook,Office,2,11.25,West,Debit Card,CUST-254,22.5,September,2023
+ORD-2039,2023-07-11,Laptop,Electronics,1,955.25,Central,Credit Card,CUST-143,955.25,July,2023
+ORD-1249,2023-01-27,Laptop,Electronics,7,948.3,West,Credit Card,CUST-290,6638.1,January,2023
+ORD-1867,2023-08-27,Headphones,Accessories,3,92.36,Central,Debit Card,CUST-296,277.08,August,2023
+ORD-1850,2023-03-08,Keyboard,Accessories,9,66.17,North,PayPal,CUST-285,595.53,March,2023
+ORD-1071,2023-10-04,Mouse,Accessories,3,26.63,North,Cash,CUST-328,79.89,October,2023
+ORD-1094,2023-07-05,Charger,Accessories,3,18.99,East,Cash,CUST-245,56.97,July,2023
+ORD-1622,2023-08-23,Keyboard,Accessories,7,53.97,Central,Credit Card,CUST-119,377.79,August,2023
+ORD-1033,2023-02-20,Monitor,Electronics,5,331.53,Central,Debit Card,CUST-441,1657.65,February,2023
+ORD-2034,2023-11-09,Mouse,Accessories,10,34.97,Central,Debit Card,CUST-289,349.7,November,2023
+ORD-1448,2023-11-20,Notebook,Office,5,10.04,South,Bank Transfer,CUST-402,50.2,November,2023
+ORD-1445,2023-12-14,Webcam,Electronics,5,73.48,West,Bank Transfer,CUST-302,367.4,December,2023
+ORD-1051,2023-01-11,Notebook,Office,2,21.08,West,Debit Card,CUST-416,42.16,January,2023
+ORD-1692,2023-04-13,USB Hub,Accessories,2,49.47,West,PayPal,CUST-321,98.94,April,2023
+ORD-1077,2023-03-09,Charger,Accessories,5,22.9,North,Credit Card,CUST-199,114.5,March,2023
+ORD-1084,2023-03-31,Monitor,Electronics,10,332.67,South,Cash,CUST-441,3326.7,March,2023
+ORD-1615,2023-06-04,Laptop,Electronics,7,947.74,East,Bank Transfer,CUST-256,6634.18,June,2023
+ORD-1082,2023-06-15,Webcam,Electronics,6,68.74,East,Credit Card,CUST-361,412.44,June,2023
+ORD-1457,2023-05-26,Laptop,Electronics,3,952.48,East,Cash,CUST-404,2857.44,May,2023
+ORD-1730,2023-10-07,Headphones,Accessories,4,79.45,South,Bank Transfer,CUST-286,317.8,October,2023
+ORD-1844,2023-07-04,Monitor,Electronics,3,328.34,North,Credit Card,CUST-316,985.02,July,2023
+ORD-1436,2023-09-25,Mouse,Accessories,6,38.23,North,Credit Card,CUST-153,229.38,September,2023
+ORD-1666,2023-05-04,Headphones,Accessories,3,76.86,West,Cash,CUST-124,230.58,May,2023
+ORD-2024,2023-10-11,Charger,Accessories,3,22.46,North,Bank Transfer,CUST-192,67.38,October,2023
+ORD-1404,2023-02-16,USB Hub,Accessories,9,48.36,South,Debit Card,CUST-460,435.24,February,2023
+ORD-2116,2023-03-19,Monitor,Electronics,2,328.25,South,Bank Transfer,CUST-261,656.5,March,2023
+ORD-1918,2023-02-11,Charger,Accessories,8,24.81,North,PayPal,CUST-332,198.48,February,2023
+ORD-2108,2023-10-21,USB Hub,Accessories,8,34.47,South,Bank Transfer,CUST-234,275.76,October,2023
+ORD-1104,2023-09-24,Notebook,Office,3,14.69,Central,Cash,CUST-479,44.07,September,2023
+ORD-1613,2023-05-28,Notebook,Office,5,10.4,North,Debit Card,CUST-452,52.0,May,2023
+ORD-1354,2023-06-29,Notebook,Office,5,12.66,Central,Cash,CUST-413,63.3,June,2023
+ORD-1062,2023-04-21,USB Hub,Accessories,3,35.18,West,Credit Card,CUST-369,105.54,April,2023
+ORD-1281,2023-07-22,Laptop,Electronics,6,955.88,South,Debit Card,CUST-285,5735.28,July,2023
+ORD-2102,2023-11-14,Keyboard,Accessories,2,61.03,West,PayPal,CUST-355,122.06,November,2023
+ORD-1238,2023-07-12,Charger,Accessories,5,18.4,North,Bank Transfer,CUST-452,92.0,July,2023
+ORD-1223,2023-06-23,USB Hub,Accessories,8,39.86,West,Cash,CUST-421,318.88,June,2023
+ORD-1145,2023-10-10,Desk Lamp,Office,3,34.84,Central,Bank Transfer,CUST-351,104.52,October,2023
+ORD-2194,2023-11-12,Mouse,Accessories,1,20.37,North,Bank Transfer,CUST-437,20.37,November,2023
+ORD-1373,2023-08-18,Desk Lamp,Office,3,34.83,East,Bank Transfer,CUST-150,104.49,August,2023
+ORD-1118,2023-02-07,USB Hub,Accessories,9,49.48,Central,Cash,CUST-206,445.32,February,2023
+ORD-1921,2023-10-23,Webcam,Electronics,7,80.68,East,PayPal,CUST-490,564.76,October,2023
+ORD-1250,2023-03-21,Desk Lamp,Office,9,42.8,South,Cash,CUST-498,385.2,March,2023
+ORD-1727,2023-08-09,Webcam,Electronics,3,69.82,Central,PayPal,CUST-130,209.46,August,2023
+ORD-1009,2023-07-18,Notebook,Office,3,9.74,Central,Debit Card,CUST-183,29.22,July,2023
+ORD-1449,2023-11-28,Desk Lamp,Office,9,34.33,East,Bank Transfer,CUST-152,308.97,November,2023
+ORD-2003,2023-11-02,Notebook,Office,5,23.56,Central,PayPal,CUST-160,117.8,November,2023
+ORD-1593,2023-01-20,Webcam,Electronics,5,65.75,West,Debit Card,CUST-113,328.75,January,2023
+ORD-1389,2023-05-21,Headphones,Accessories,9,92.34,West,Bank Transfer,CUST-209,831.06,May,2023
+ORD-2131,2023-12-06,Headphones,Accessories,7,84.75,West,Credit Card,CUST-118,593.25,December,2023
+ORD-2164,2023-06-28,Webcam,Electronics,4,67.78,Central,PayPal,CUST-208,271.12,June,2023
+ORD-1557,2023-07-10,Desk Lamp,Office,5,25.28,South,Credit Card,CUST-491,126.4,July,2023
+ORD-1460,2023-11-05,Monitor,Electronics,5,320.97,West,Bank Transfer,CUST-219,1604.85,November,2023
+ORD-2178,2023-05-28,Mouse,Accessories,6,24.21,West,Bank Transfer,CUST-268,145.26,May,2023
+ORD-1144,2023-11-30,Headphones,Accessories,8,92.63,East,Credit Card,CUST-383,741.04,November,2023
+ORD-1501,2023-04-26,Mouse,Accessories,2,25.17,West,Credit Card,CUST-191,50.34,April,2023
+ORD-2181,2023-08-15,Headphones,Accessories,1,75.45,West,Debit Card,CUST-448,75.45,August,2023
+ORD-1539,2023-07-08,Keyboard,Accessories,7,53.54,Central,PayPal,CUST-326,374.78,July,2023
+ORD-1177,2023-10-15,Notebook,Office,8,17.98,North,PayPal,CUST-352,143.84,October,2023
+ORD-1596,2023-12-23,USB Hub,Accessories,4,40.69,East,PayPal,CUST-274,162.76,December,2023
+ORD-1796,2023-04-06,Headphones,Accessories,8,85.61,West,Cash,CUST-303,684.88,April,2023
+ORD-1661,2023-05-10,Keyboard,Accessories,6,53.41,Central,Cash,CUST-138,320.46,May,2023
+ORD-1078,2023-01-08,USB Hub,Accessories,7,30.59,West,PayPal,CUST-351,214.13,January,2023
+ORD-1007,2023-10-03,Desk Lamp,Office,8,33.7,Central,Debit Card,CUST-329,269.6,October,2023
+ORD-1701,2023-01-19,Desk Lamp,Office,3,38.56,West,Cash,CUST-363,115.68,January,2023
+ORD-1966,2023-03-04,Headphones,Accessories,7,85.76,South,PayPal,CUST-301,600.32,March,2023
+ORD-1357,2023-05-01,Monitor,Electronics,8,315.75,West,Cash,CUST-391,2526.0,May,2023
+ORD-1329,2023-12-20,Headphones,Accessories,4,93.22,Central,PayPal,CUST-441,372.88,December,2023
+ORD-2171,2023-10-06,Desk Lamp,Office,4,39.35,South,Bank Transfer,CUST-313,157.4,October,2023
+ORD-2124,2023-02-01,USB Hub,Accessories,8,48.97,South,Bank Transfer,CUST-325,391.76,February,2023
+ORD-1258,2023-12-05,Monitor,Electronics,7,320.31,Central,Debit Card,CUST-357,2242.17,December,2023
+ORD-1997,2023-10-26,Desk Lamp,Office,9,37.83,Central,Cash,CUST-369,340.47,October,2023
+ORD-1372,2023-10-24,Charger,Accessories,7,20.61,East,Cash,CUST-471,144.27,October,2023
+ORD-1886,2023-06-15,Charger,Accessories,8,30.62,East,Bank Transfer,CUST-207,244.96,June,2023
+ORD-1931,2023-11-18,USB Hub,Accessories,6,34.27,Central,Credit Card,CUST-305,205.62,November,2023
+ORD-1950,2023-04-15,Notebook,Office,1,23.9,North,Bank Transfer,CUST-263,23.9,April,2023
+ORD-1525,2023-07-30,Monitor,Electronics,7,320.97,East,Cash,CUST-233,2246.79,July,2023
+ORD-1933,2023-05-29,Laptop,Electronics,1,952.22,Central,Cash,CUST-421,952.22,May,2023
+ORD-1332,2023-08-12,Mouse,Accessories,7,27.76,South,PayPal,CUST-149,194.32,August,2023
+ORD-1859,2023-07-29,Headphones,Accessories,5,80.01,North,Cash,CUST-478,400.05,July,2023
+ORD-1765,2023-12-14,Headphones,Accessories,3,79.43,East,PayPal,CUST-323,238.29,December,2023
+ORD-1440,2023-07-10,Headphones,Accessories,1,80.05,North,PayPal,CUST-437,80.05,July,2023
+ORD-1531,2023-05-26,Keyboard,Accessories,2,61.39,South,Bank Transfer,CUST-491,122.78,May,2023
+ORD-1226,2023-04-03,USB Hub,Accessories,4,32.03,East,PayPal,CUST-148,128.12,April,2023
+ORD-1228,2023-10-17,Laptop,Electronics,3,962.28,East,Cash,UNKNOWN,2886.84,October,2023
+ORD-2111,2023-04-08,Headphones,Accessories,6,80.82,North,Credit Card,UNKNOWN,484.92,April,2023
+ORD-1212,2023-10-13,Desk Lamp,Office,4,33.93,West,PayPal,CUST-425,135.72,October,2023
+ORD-1079,2023-07-03,Headphones,Accessories,4,88.66,South,Bank Transfer,CUST-262,354.64,July,2023
+ORD-1148,2023-08-20,Keyboard,Accessories,8,51.81,West,Cash,CUST-399,414.48,August,2023
+ORD-1672,2023-03-10,USB Hub,Accessories,7,37.71,Central,Bank Transfer,CUST-480,263.97,March,2023
+ORD-1807,2023-11-10,Keyboard,Accessories,5,57.75,North,Bank Transfer,CUST-397,288.75,November,2023
+ORD-1668,2023-11-18,Notebook,Office,1,8.66,Central,Credit Card,CUST-393,8.66,November,2023
+ORD-1133,2023-11-02,Mouse,Accessories,6,31.85,North,Bank Transfer,CUST-189,191.1,November,2023
+ORD-1894,2023-04-11,Mouse,Accessories,2,32.07,North,Debit Card,CUST-117,64.14,April,2023
+ORD-1408,2023-07-16,USB Hub,Accessories,10,40.1,East,Debit Card,CUST-120,401.0,July,2023
+ORD-1764,2023-11-08,Headphones,Accessories,10,90.19,Central,Debit Card,CUST-386,901.9,November,2023
+ORD-1507,2023-09-17,Monitor,Electronics,6,316.79,East,Cash,CUST-255,1900.74,September,2023
+ORD-2009,2023-01-05,Webcam,Electronics,7,73.75,East,Bank Transfer,CUST-236,516.25,January,2023
+ORD-1504,2023-02-09,Notebook,Office,7,8.66,South,Bank Transfer,CUST-447,60.62,February,2023
+ORD-1767,2023-01-18,Monitor,Electronics,7,331.6,West,Credit Card,CUST-431,2321.2,January,2023
+ORD-1347,2023-09-19,Headphones,Accessories,4,93.5,South,Cash,CUST-396,374.0,September,2023
+ORD-1386,2023-08-15,USB Hub,Accessories,8,46.48,East,Bank Transfer,CUST-281,371.84,August,2023
+ORD-1000,2023-01-24,Mouse,Accessories,9,39.49,West,Bank Transfer,CUST-462,355.41,January,2023
+ORD-1360,2023-05-12,Charger,Accessories,3,27.17,North,Cash,CUST-396,81.51,May,2023
+ORD-1820,2023-06-13,Notebook,Office,9,13.25,North,Cash,CUST-477,119.25,June,2023
+ORD-1475,2023-12-29,Desk Lamp,Office,7,37.0,East,Bank Transfer,CUST-343,259.0,December,2023
+ORD-2097,2023-10-26,Headphones,Accessories,5,75.62,Central,PayPal,CUST-233,378.1,October,2023
+ORD-1888,2023-04-26,USB Hub,Accessories,6,46.6,West,Credit Card,CUST-324,279.6,April,2023
+ORD-1952,2023-11-07,Charger,Accessories,2,25.8,West,Bank Transfer,CUST-344,51.6,November,2023
+ORD-1861,2023-02-07,Monitor,Electronics,2,328.81,North,Debit Card,CUST-127,657.62,February,2023
+ORD-1705,2023-07-02,Charger,Accessories,8,34.56,Central,Credit Card,CUST-380,276.48,July,2023
+ORD-1172,2023-03-08,Charger,Accessories,3,17.73,West,Bank Transfer,CUST-225,53.19,March,2023
+ORD-1450,2023-06-21,Mouse,Accessories,10,33.54,West,Bank Transfer,CUST-479,335.4,June,2023
+ORD-1125,2023-05-21,Desk Lamp,Office,1,44.93,West,Debit Card,CUST-487,44.93,May,2023
+ORD-2036,2023-03-07,Mouse,Accessories,1,26.88,South,PayPal,CUST-450,26.88,March,2023
+ORD-1530,2023-11-09,Monitor,Electronics,9,323.18,North,Bank Transfer,CUST-109,2908.62,November,2023
+ORD-1090,2023-02-28,Monitor,Electronics,1,326.01,West,PayPal,CUST-289,326.01,February,2023
+ORD-2191,2023-05-20,Webcam,Electronics,3,84.16,North,PayPal,CUST-141,252.48,May,2023
+ORD-1181,2023-07-30,Monitor,Electronics,9,333.58,Central,Bank Transfer,CUST-285,3002.22,July,2023
+ORD-2147,2023-11-09,Keyboard,Accessories,1,55.27,North,PayPal,CUST-352,55.27,November,2023
+ORD-1414,2023-10-20,Laptop,Electronics,2,948.55,West,Cash,CUST-245,1897.1,October,2023
+ORD-1251,2023-03-22,Laptop,Electronics,8,948.14,South,PayPal,CUST-348,7585.12,March,2023
+ORD-1069,2023-03-16,Monitor,Electronics,7,333.1,East,Cash,CUST-142,2331.7,March,2023
+ORD-1131,2023-06-16,Headphones,Accessories,3,91.9,West,Debit Card,CUST-239,275.7,June,2023
+ORD-1300,2023-12-27,Notebook,Office,4,21.37,North,Credit Card,CUST-257,85.48,December,2023
+ORD-2177,2023-01-22,Desk Lamp,Office,9,34.58,East,PayPal,CUST-148,311.22,January,2023
+ORD-1326,2023-03-29,Desk Lamp,Office,2,37.54,East,Debit Card,CUST-122,75.08,March,2023
+ORD-2135,2023-06-10,Monitor,Electronics,7,319.14,Central,Debit Card,CUST-461,2233.98,June,2023
+ORD-1903,2023-02-17,Monitor,Electronics,5,322.54,West,Debit Card,CUST-467,1612.7,February,2023
+ORD-1499,2023-09-06,Charger,Accessories,4,16.95,East,Cash,CUST-447,67.8,September,2023
+ORD-1755,2023-12-10,Charger,Accessories,4,16.09,South,PayPal,CUST-222,64.36,December,2023
+ORD-1364,2023-03-20,USB Hub,Accessories,3,36.63,North,Debit Card,CUST-211,109.89,March,2023
+ORD-1495,2023-06-08,Charger,Accessories,7,31.91,Central,Cash,CUST-477,223.37,June,2023
+ORD-2191,2023-05-20,Webcam,Electronics,3,84.16,North,PayPal,CUST-141,252.48,May,2023
+ORD-1338,2023-09-26,Desk Lamp,Office,5,40.73,West,Bank Transfer,CUST-202,203.65,September,2023
+ORD-1421,2023-03-19,Monitor,Electronics,5,328.78,South,Bank Transfer,CUST-215,1643.9,March,2023
+ORD-1164,2023-08-31,Notebook,Office,2,21.93,South,Credit Card,CUST-434,43.86,August,2023
+ORD-1516,2023-07-12,Notebook,Office,2,14.41,West,Cash,CUST-492,28.82,July,2023
+ORD-1193,2023-04-19,Laptop,Electronics,5,964.89,East,Cash,CUST-362,4824.45,April,2023
+ORD-1974,2023-07-16,Charger,Accessories,3,25.76,North,Debit Card,CUST-413,77.28,July,2023
+ORD-1890,2023-09-23,Desk Lamp,Office,1,39.09,North,PayPal,CUST-262,39.09,September,2023
+ORD-1169,2023-08-10,Desk Lamp,Office,1,32.91,West,Cash,CUST-351,32.91,August,2023
+ORD-1809,2023-12-22,Headphones,Accessories,8,92.65,South,Credit Card,CUST-368,741.2,December,2023
+ORD-1652,2023-09-17,Monitor,Electronics,5,320.81,East,Credit Card,CUST-273,1604.05,September,2023
+ORD-1173,2023-10-12,Desk Lamp,Office,3,28.15,Central,Credit Card,CUST-114,84.45,October,2023
+ORD-2041,2023-10-13,USB Hub,Accessories,7,34.42,West,Bank Transfer,CUST-340,240.94,October,2023
+ORD-1838,2023-03-04,Headphones,Accessories,10,88.89,Central,PayPal,CUST-373,888.9,March,2023
+ORD-1491,2023-09-18,Notebook,Office,7,20.7,South,Credit Card,CUST-421,144.9,September,2023
+ORD-1073,2023-03-31,Keyboard,Accessories,8,59.22,Central,Bank Transfer,CUST-443,473.76,March,2023
+ORD-2174,2023-06-26,USB Hub,Accessories,7,46.22,South,Credit Card,CUST-493,323.54,June,2023
+ORD-1587,2023-06-13,Notebook,Office,4,7.62,North,Debit Card,CUST-123,30.48,June,2023
+ORD-1657,2023-01-23,Monitor,Electronics,10,330.16,East,PayPal,CUST-323,3301.6,January,2023
+ORD-1234,2023-01-16,Monitor,Electronics,10,320.9,East,Debit Card,CUST-254,3209.0,January,2023
+ORD-1214,2023-11-08,Notebook,Office,2,9.99,East,Credit Card,CUST-124,19.98,November,2023
+ORD-1162,2023-03-20,Laptop,Electronics,7,963.34,North,Bank Transfer,CUST-341,6743.38,March,2023
+ORD-1132,2023-07-15,Webcam,Electronics,3,68.52,North,Cash,CUST-312,205.56,July,2023
+ORD-1887,2023-12-30,Headphones,Accessories,8,92.4,North,Cash,CUST-182,739.2,December,2023
+ORD-1652,2023-09-17,Monitor,Electronics,5,320.81,East,Credit Card,CUST-273,1604.05,September,2023
+ORD-2136,2023-03-30,Monitor,Electronics,6,333.15,Central,Cash,CUST-339,1998.9,March,2023
+ORD-1185,2023-01-27,Charger,Accessories,3,18.51,East,Credit Card,CUST-323,55.53,January,2023
+ORD-1041,2023-05-22,Notebook,Office,5,15.27,South,Cash,CUST-474,76.35,May,2023
+ORD-1692,2023-04-13,USB Hub,Accessories,2,49.47,West,PayPal,CUST-321,98.94,April,2023
+ORD-1108,2023-01-16,Webcam,Electronics,10,68.6,Central,PayPal,CUST-183,686.0,January,2023
+ORD-1974,2023-07-16,Charger,Accessories,3,25.76,North,Debit Card,CUST-413,77.28,July,2023
+ORD-1568,2023-09-20,Desk Lamp,Office,4,36.77,East,Credit Card,CUST-343,147.08,September,2023
+ORD-1737,2023-06-01,Mouse,Accessories,10,37.13,West,Bank Transfer,CUST-491,371.3,June,2023
+ORD-2084,2023-10-26,Keyboard,Accessories,8,61.03,East,Bank Transfer,CUST-233,488.24,October,2023
+ORD-1893,2023-05-09,Charger,Accessories,6,25.93,East,Cash,CUST-308,155.58,May,2023
+ORD-1483,2023-12-10,Headphones,Accessories,6,82.77,East,Cash,CUST-493,496.62,December,2023
+ORD-1468,2023-06-08,Headphones,Accessories,7,92.85,Central,Debit Card,CUST-397,649.95,June,2023
+ORD-1024,2023-05-24,Charger,Accessories,9,23.13,South,Credit Card,CUST-359,208.17,May,2023
+ORD-1857,2023-09-27,Notebook,Office,5,8.22,South,Debit Card,CUST-410,41.1,September,2023
+ORD-1772,2023-07-07,Desk Lamp,Office,3,25.92,West,Debit Card,CUST-169,77.76,July,2023
+ORD-2160,2023-12-27,Keyboard,Accessories,5,59.74,West,Cash,CUST-239,298.7,December,2023
+ORD-1367,2023-04-01,Laptop,Electronics,9,963.42,East,Bank Transfer,CUST-244,8670.78,April,2023
+ORD-1366,2023-02-08,Laptop,Electronics,1,959.91,East,Debit Card,CUST-198,959.91,February,2023
+ORD-1963,2023-06-13,Notebook,Office,6,23.96,Central,Bank Transfer,CUST-312,143.76,June,2023
+ORD-2125,2023-12-28,Headphones,Accessories,6,88.19,West,Debit Card,CUST-127,529.14,December,2023
+ORD-1383,2023-08-14,Notebook,Office,10,17.91,South,Credit Card,CUST-444,179.1,August,2023
+ORD-1998,2023-06-30,Headphones,Accessories,10,87.37,North,Bank Transfer,CUST-322,873.7,June,2023
+ORD-1717,2023-04-06,Notebook,Office,7,16.17,Central,Credit Card,CUST-339,113.19,April,2023
+ORD-1454,2023-10-13,Headphones,Accessories,1,85.23,South,Bank Transfer,CUST-201,85.23,October,2023
+ORD-1264,2023-05-20,USB Hub,Accessories,8,33.07,West,Credit Card,CUST-369,264.56,May,2023
+ORD-1868,2023-12-15,Notebook,Office,4,19.79,Central,Credit Card,CUST-258,79.16,December,2023
+ORD-1232,2023-03-14,Webcam,Electronics,10,66.47,East,Credit Card,CUST-261,664.7,March,2023
+ORD-1395,2023-06-08,Mouse,Accessories,5,22.71,South,Cash,CUST-260,113.55,June,2023
+ORD-1849,2023-10-10,Monitor,Electronics,6,331.95,West,Debit Card,UNKNOWN,1991.7,October,2023
+ORD-1176,2023-10-15,Desk Lamp,Office,7,44.21,North,Cash,CUST-241,309.47,October,2023
+ORD-1018,2023-08-01,Laptop,Electronics,6,949.05,South,Credit Card,CUST-334,5694.3,August,2023
+ORD-1168,2023-02-17,Mouse,Accessories,8,38.84,East,Bank Transfer,CUST-191,310.72,February,2023
+ORD-1934,2023-11-25,Charger,Accessories,7,19.37,South,Credit Card,CUST-256,135.59,November,2023
+ORD-1781,2023-07-09,Headphones,Accessories,10,82.86,Central,Credit Card,CUST-469,828.6,July,2023
+ORD-1595,2023-08-30,USB Hub,Accessories,10,35.12,East,Cash,CUST-420,351.2,August,2023
+ORD-1061,2023-10-28,Mouse,Accessories,4,31.65,East,Credit Card,CUST-398,126.6,October,2023
+ORD-1272,2023-12-14,Monitor,Electronics,7,318.42,East,Cash,UNKNOWN,2228.94,December,2023
+ORD-1101,2023-11-11,Desk Lamp,Office,10,40.64,South,Cash,CUST-210,406.4,November,2023
+ORD-1278,2023-06-07,Laptop,Electronics,4,954.78,Central,Cash,CUST-278,3819.12,June,2023
+ORD-1965,2023-08-27,Keyboard,Accessories,3,69.13,Central,Bank Transfer,CUST-193,207.39,August,2023
+ORD-1694,2023-06-11,Mouse,Accessories,6,38.41,Central,PayPal,CUST-376,230.46,June,2023
+ORD-1368,2023-11-18,Webcam,Electronics,1,82.94,East,Bank Transfer,CUST-187,82.94,November,2023
+ORD-2151,2023-05-23,USB Hub,Accessories,5,37.31,North,Debit Card,CUST-163,186.55,May,2023
+ORD-1735,2023-06-17,Desk Lamp,Office,9,41.03,East,Bank Transfer,CUST-482,369.27,June,2023
+ORD-1939,2023-07-27,Mouse,Accessories,2,39.62,East,Cash,CUST-180,79.24,July,2023
+ORD-1987,2023-09-13,Keyboard,Accessories,10,61.16,North,PayPal,CUST-407,611.6,September,2023
+ORD-1820,2023-06-13,Notebook,Office,9,13.25,North,Cash,CUST-477,119.25,June,2023
+ORD-1916,2023-01-22,Notebook,Office,2,17.31,Central,Credit Card,CUST-477,34.62,January,2023
+ORD-1547,2023-09-28,Desk Lamp,Office,3,40.27,Central,Bank Transfer,CUST-255,120.81,September,2023
+ORD-2013,2023-05-16,USB Hub,Accessories,8,40.67,North,Debit Card,CUST-295,325.36,May,2023
+ORD-1191,2023-10-23,Mouse,Accessories,1,38.97,Central,Cash,CUST-161,38.97,October,2023
+ORD-1456,2023-07-17,USB Hub,Accessories,10,46.87,North,Debit Card,CUST-202,468.7,July,2023
+ORD-1393,2023-09-17,Monitor,Electronics,1,321.22,East,Bank Transfer,CUST-157,321.22,September,2023
+ORD-1675,2023-10-07,Mouse,Accessories,3,32.98,East,Credit Card,CUST-396,98.94,October,2023
+ORD-1760,2023-12-14,Desk Lamp,Office,3,34.46,Central,Debit Card,CUST-225,103.38,December,2023
+ORD-1309,2023-08-12,Headphones,Accessories,10,89.29,South,PayPal,CUST-139,892.9,August,2023
+ORD-1728,2023-11-05,Headphones,Accessories,6,94.4,North,Debit Card,CUST-367,566.4,November,2023
+ORD-1419,2023-09-01,Webcam,Electronics,4,82.89,West,PayPal,CUST-451,331.56,September,2023
+ORD-1375,2023-10-17,Desk Lamp,Office,2,26.96,West,Cash,CUST-358,53.92,October,2023
+ORD-1412,2023-01-22,Mouse,Accessories,5,27.45,West,Bank Transfer,CUST-159,137.25,January,2023
+ORD-1074,2023-02-26,Desk Lamp,Office,6,28.36,Central,Cash,CUST-144,170.16,February,2023
+ORD-2198,2023-01-26,Mouse,Accessories,6,21.71,Central,Debit Card,CUST-237,130.26,January,2023
+ORD-1991,2023-02-16,Desk Lamp,Office,6,32.76,West,Debit Card,CUST-288,196.56,February,2023
+ORD-1500,2023-04-09,Keyboard,Accessories,2,52.56,North,PayPal,CUST-113,105.12,April,2023
+ORD-1919,2023-01-24,Mouse,Accessories,8,31.45,West,Debit Card,CUST-455,251.6,January,2023
+ORD-1616,2023-03-04,USB Hub,Accessories,8,46.61,Central,Credit Card,CUST-158,372.88,March,2023
+ORD-1114,2023-02-25,Laptop,Electronics,4,964.83,West,Debit Card,CUST-400,3859.32,February,2023
+ORD-1601,2023-11-12,Charger,Accessories,6,15.39,North,Debit Card,CUST-282,92.34,November,2023
+ORD-1604,2023-01-10,USB Hub,Accessories,4,37.61,East,Bank Transfer,CUST-128,150.44,January,2023
+ORD-2054,2023-08-31,Charger,Accessories,2,16.96,East,Bank Transfer,CUST-231,33.92,August,2023
+ORD-1089,2023-09-27,Mouse,Accessories,4,28.24,Central,Credit Card,CUST-318,112.96,September,2023
+ORD-1945,2023-03-22,USB Hub,Accessories,10,42.42,Central,Credit Card,CUST-490,424.2,March,2023
+ORD-1277,2023-12-08,Desk Lamp,Office,7,32.95,South,PayPal,CUST-345,230.65,December,2023
+ORD-1753,2023-01-30,Notebook,Office,6,24.01,West,PayPal,CUST-220,144.06,January,2023
+ORD-1498,2023-06-24,Desk Lamp,Office,5,28.62,West,Bank Transfer,CUST-355,143.1,June,2023
+ORD-2008,2023-10-02,Charger,Accessories,4,30.31,East,PayPal,CUST-500,121.24,October,2023
+ORD-2079,2023-07-08,Desk Lamp,Office,2,39.66,South,Cash,CUST-167,79.32,July,2023
+ORD-2072,2023-09-30,Laptop,Electronics,2,945.1,West,Cash,CUST-358,1890.2,September,2023
+ORD-1011,2023-07-09,Laptop,Electronics,9,951.3,East,Credit Card,CUST-254,8561.7,July,2023
+ORD-1396,2023-08-25,Webcam,Electronics,9,82.03,South,Credit Card,CUST-163,738.27,August,2023
+ORD-1862,2023-03-06,Headphones,Accessories,3,80.9,East,Credit Card,CUST-453,242.7,March,2023
+ORD-1555,2023-11-25,Monitor,Electronics,3,318.99,South,PayPal,CUST-299,956.97,November,2023
+ORD-1042,2023-04-08,Headphones,Accessories,8,88.54,Central,Credit Card,CUST-345,708.32,April,2023
+ORD-1167,2023-02-13,Charger,Accessories,2,22.47,North,Debit Card,CUST-313,44.94,February,2023
+ORD-1416,2023-04-07,Monitor,Electronics,7,326.74,Central,Debit Card,CUST-407,2287.18,April,2023
+ORD-1576,2023-08-01,Mouse,Accessories,10,37.76,West,Debit Card,CUST-402,377.6,August,2023
+ORD-1267,2023-02-28,Headphones,Accessories,5,80.89,Central,Debit Card,CUST-382,404.45,February,2023
+ORD-1926,2023-08-02,Keyboard,Accessories,5,60.1,Central,Credit Card,CUST-422,300.5,August,2023
+ORD-1426,2023-02-13,Webcam,Electronics,7,84.3,North,Credit Card,CUST-196,590.1,February,2023
+ORD-1690,2023-04-14,Webcam,Electronics,5,78.69,North,Bank Transfer,CUST-358,393.45,April,2023
+ORD-1544,2023-05-25,Webcam,Electronics,9,68.37,South,Cash,CUST-385,615.33,May,2023
+ORD-2199,2023-12-09,Keyboard,Accessories,8,58.98,South,Cash,CUST-404,471.84,December,2023
+ORD-1674,2023-06-30,Monitor,Electronics,2,331.0,West,Debit Card,CUST-467,662.0,June,2023
+ORD-1689,2023-05-31,Desk Lamp,Office,2,25.58,East,Credit Card,CUST-254,51.16,May,2023
+ORD-2127,2023-09-23,Notebook,Office,3,19.72,North,Credit Card,CUST-176,59.16,September,2023
+ORD-1163,2023-12-18,Monitor,Electronics,6,330.49,East,Bank Transfer,CUST-163,1982.94,December,2023
+ORD-1159,2023-12-07,Webcam,Electronics,10,71.47,South,Debit Card,CUST-253,714.7,December,2023
+ORD-2182,2023-12-02,Notebook,Office,7,5.86,Central,Cash,CUST-448,41.02,December,2023
+ORD-1257,2023-08-15,Charger,Accessories,7,29.6,South,Debit Card,CUST-179,207.2,August,2023
+ORD-1971,2023-02-19,Mouse,Accessories,10,37.3,North,PayPal,CUST-111,373.0,February,2023
+ORD-1335,2023-08-12,Headphones,Accessories,4,80.52,South,Bank Transfer,CUST-408,322.08,August,2023
+ORD-2011,2023-08-09,Desk Lamp,Office,1,38.21,West,Debit Card,CUST-482,38.21,August,2023
+ORD-1015,2023-08-03,Monitor,Electronics,8,321.36,Central,Bank Transfer,CUST-355,2570.88,August,2023
+ORD-1515,2023-11-02,Charger,Accessories,5,32.02,West,Credit Card,CUST-366,160.1,November,2023
+ORD-1324,2023-01-11,Mouse,Accessories,8,28.71,East,Debit Card,CUST-160,229.68,January,2023
+ORD-1768,2023-03-06,Mouse,Accessories,7,39.29,Central,PayPal,CUST-118,275.03,March,2023
+ORD-1607,2023-03-18,USB Hub,Accessories,3,33.06,North,Cash,CUST-226,99.18,March,2023
+ORD-1850,2023-03-08,Keyboard,Accessories,9,66.17,North,PayPal,CUST-285,595.53,March,2023
+ORD-1904,2023-09-15,Notebook,Office,6,13.57,West,Bank Transfer,CUST-316,81.42,September,2023
+ORD-1843,2023-01-14,Mouse,Accessories,10,31.41,Central,PayPal,CUST-379,314.1,January,2023
+ORD-1222,2023-06-08,Mouse,Accessories,7,37.69,North,Bank Transfer,CUST-492,263.83,June,2023
+ORD-1179,2023-12-10,Monitor,Electronics,7,334.37,Central,Cash,UNKNOWN,2340.59,December,2023
+ORD-1884,2023-03-26,Charger,Accessories,5,20.03,South,Cash,CUST-220,100.15,March,2023
+ORD-1099,2023-09-15,Keyboard,Accessories,5,65.9,Central,Credit Card,CUST-387,329.5,September,2023
+ORD-1836,2023-09-18,Notebook,Office,4,24.17,Central,Cash,CUST-128,96.68,September,2023
+ORD-1757,2023-07-27,Desk Lamp,Office,2,34.09,South,Bank Transfer,CUST-176,68.18,July,2023
+ORD-1521,2023-11-16,Monitor,Electronics,8,332.79,South,Credit Card,UNKNOWN,2662.32,November,2023
+ORD-1761,2023-03-23,Webcam,Electronics,9,78.14,Central,Cash,CUST-258,703.26,March,2023
+ORD-1022,2023-11-12,USB Hub,Accessories,10,33.29,North,Cash,CUST-478,332.9,November,2023
+ORD-1356,2023-03-17,Webcam,Electronics,8,77.18,North,PayPal,CUST-358,617.44,March,2023
+ORD-1733,2023-02-22,Desk Lamp,Office,5,29.7,West,Cash,CUST-223,148.5,February,2023
+ORD-2062,2023-11-10,Mouse,Accessories,7,38.0,North,Bank Transfer,CUST-341,266.0,November,2023
+ORD-2185,2023-04-20,Mouse,Accessories,4,32.59,North,Debit Card,CUST-291,130.36,April,2023
+ORD-1611,2023-08-05,Charger,Accessories,4,28.23,West,Bank Transfer,CUST-403,112.92,August,2023
+ORD-2089,2023-11-02,Monitor,Electronics,3,317.8,Central,PayPal,CUST-339,953.4,November,2023
+ORD-1340,2023-07-22,Notebook,Office,10,15.45,South,PayPal,CUST-443,154.5,July,2023
+ORD-1431,2023-05-07,Desk Lamp,Office,1,33.19,North,PayPal,UNKNOWN,33.19,May,2023
+ORD-1895,2023-11-22,Notebook,Office,9,20.52,West,Debit Card,CUST-240,184.68,November,2023
+ORD-1217,2023-05-17,Monitor,Electronics,8,317.16,Central,Debit Card,CUST-371,2537.28,May,2023
+ORD-1203,2023-05-23,Mouse,Accessories,3,34.91,North,Bank Transfer,CUST-336,104.73,May,2023
+ORD-2032,2023-11-16,Notebook,Office,2,23.94,Central,Credit Card,CUST-330,47.88,November,2023
+ORD-2043,2023-03-15,Mouse,Accessories,5,23.89,Central,Debit Card,CUST-265,119.45,March,2023
+ORD-1093,2023-08-18,Monitor,Electronics,5,317.74,Central,Bank Transfer,CUST-106,1588.7,August,2023
+ORD-1914,2023-06-22,Headphones,Accessories,8,76.02,West,Debit Card,CUST-473,608.16,June,2023
+ORD-1068,2023-05-22,Webcam,Electronics,2,67.58,West,Cash,CUST-111,135.16,May,2023
+ORD-2118,2023-12-20,Notebook,Office,9,21.13,South,PayPal,CUST-351,190.17,December,2023
+ORD-1284,2023-01-04,Desk Lamp,Office,6,32.39,North,Debit Card,CUST-405,194.34,January,2023
+ORD-1696,2023-09-21,Webcam,Electronics,3,73.23,Central,Bank Transfer,CUST-202,219.69,September,2023
+ORD-1085,2023-05-16,Laptop,Electronics,10,945.69,West,Credit Card,CUST-284,9456.9,May,2023
+ORD-1434,2023-08-13,Webcam,Electronics,8,80.35,Central,Cash,CUST-351,642.8,August,2023
+ORD-1910,2023-03-29,Keyboard,Accessories,6,64.19,South,Debit Card,CUST-133,385.14,March,2023
+ORD-1153,2023-07-24,Laptop,Electronics,5,963.36,East,PayPal,CUST-337,4816.8,July,2023
+ORD-1075,2023-12-05,Monitor,Electronics,4,326.48,North,PayPal,CUST-362,1305.92,December,2023
+ORD-2113,2023-08-14,USB Hub,Accessories,5,40.21,West,Cash,CUST-260,201.05,August,2023
+ORD-1942,2023-02-07,Laptop,Electronics,8,953.91,North,Debit Card,CUST-465,7631.28,February,2023
+ORD-1789,2023-07-23,Laptop,Electronics,9,956.78,Central,PayPal,CUST-252,8611.02,July,2023
+ORD-1580,2023-07-11,Desk Lamp,Office,6,32.19,West,Debit Card,CUST-280,193.14,July,2023
+ORD-1446,2023-11-03,Webcam,Electronics,1,72.53,East,PayPal,CUST-305,72.53,November,2023
+ORD-1703,2023-04-08,Notebook,Office,9,16.53,North,Debit Card,CUST-443,148.77,April,2023
+ORD-1188,2023-06-09,Mouse,Accessories,9,22.55,South,Credit Card,CUST-451,202.95,June,2023
+ORD-1271,2023-05-26,Keyboard,Accessories,9,50.51,Central,Cash,CUST-313,454.59,May,2023
+ORD-1236,2023-09-29,Monitor,Electronics,6,334.03,West,Credit Card,CUST-450,2004.18,September,2023
+ORD-1487,2023-02-17,Headphones,Accessories,8,78.8,East,Debit Card,CUST-228,630.4,February,2023
+ORD-1427,2023-09-16,Headphones,Accessories,7,92.14,South,Cash,CUST-135,644.98,September,2023
+ORD-1559,2023-02-22,Monitor,Electronics,5,331.66,West,Cash,CUST-391,1658.3,February,2023
+ORD-1117,2023-08-16,Keyboard,Accessories,2,69.99,South,Bank Transfer,CUST-173,139.98,August,2023
+ORD-1637,2023-11-11,Mouse,Accessories,10,36.7,South,Debit Card,CUST-392,367.0,November,2023
+ORD-2150,2023-05-07,Webcam,Electronics,8,78.07,Central,Credit Card,CUST-175,624.56,May,2023
+ORD-1801,2023-03-02,Notebook,Office,4,15.17,East,Debit Card,CUST-392,60.68,March,2023
+ORD-1750,2023-08-11,USB Hub,Accessories,10,40.17,North,Bank Transfer,CUST-231,401.7,August,2023
+ORD-1512,2023-06-22,Laptop,Electronics,5,951.63,West,PayPal,CUST-139,4758.15,June,2023
+ORD-1633,2023-03-15,USB Hub,Accessories,9,36.61,East,PayPal,CUST-401,329.49,March,2023
+ORD-1898,2023-03-06,Webcam,Electronics,7,68.55,South,Credit Card,CUST-351,479.85,March,2023
+ORD-2190,2023-12-23,Desk Lamp,Office,1,28.6,North,Credit Card,CUST-114,28.6,December,2023
+ORD-1978,2023-03-23,Headphones,Accessories,3,87.93,East,PayPal,CUST-336,263.79,March,2023
+ORD-1126,2023-11-16,Headphones,Accessories,9,79.39,North,Credit Card,CUST-292,714.51,November,2023
+ORD-1790,2023-06-10,Desk Lamp,Office,9,40.44,Central,Credit Card,CUST-132,363.96,June,2023
+ORD-1829,2023-03-22,Notebook,Office,1,9.02,South,Debit Card,CUST-189,9.02,March,2023
+ORD-1116,2023-12-31,Keyboard,Accessories,10,65.34,North,Cash,CUST-144,653.4,December,2023
+ORD-1473,2023-03-08,USB Hub,Accessories,1,46.11,Central,Debit Card,CUST-304,46.11,March,2023
+ORD-1740,2023-11-05,Charger,Accessories,7,24.95,Central,Debit Card,CUST-310,174.65,November,2023
+ORD-2081,2023-12-11,Notebook,Office,3,14.26,North,PayPal,CUST-121,42.78,December,2023
+ORD-1057,2023-04-16,Monitor,Electronics,1,331.47,Central,Cash,CUST-128,331.47,April,2023
+ORD-1603,2023-02-10,Headphones,Accessories,10,83.34,West,Bank Transfer,CUST-279,833.4,February,2023
+ORD-1786,2023-03-12,Webcam,Electronics,3,73.29,East,Bank Transfer,CUST-142,219.87,March,2023
+ORD-1830,2023-12-31,Monitor,Electronics,8,327.48,South,Bank Transfer,CUST-209,2619.84,December,2023
+ORD-1119,2023-02-11,Notebook,Office,8,7.0,West,Bank Transfer,CUST-255,56.0,February,2023
+ORD-1656,2023-08-29,Notebook,Office,9,6.9,Central,PayPal,CUST-286,62.1,August,2023
+ORD-2029,2023-08-19,Laptop,Electronics,9,945.1,East,Bank Transfer,CUST-234,8505.9,August,2023
+ORD-1669,2023-02-23,Laptop,Electronics,8,953.02,Central,Credit Card,CUST-305,7624.16,February,2023
+ORD-1105,2023-06-04,USB Hub,Accessories,8,48.25,West,Bank Transfer,CUST-312,386.0,June,2023
+ORD-1635,2023-08-08,USB Hub,Accessories,6,43.43,North,Bank Transfer,CUST-262,260.58,August,2023
+ORD-1369,2023-09-10,Keyboard,Accessories,2,50.4,East,Credit Card,CUST-486,100.8,September,2023
+ORD-1268,2023-06-26,USB Hub,Accessories,3,43.24,North,PayPal,CUST-459,129.72,June,2023
+ORD-1655,2023-07-19,Mouse,Accessories,9,34.77,West,Debit Card,CUST-253,312.93,July,2023
+ORD-1819,2023-12-16,Keyboard,Accessories,6,52.67,South,Debit Card,CUST-399,316.02,December,2023
+ORD-1822,2023-06-27,Mouse,Accessories,8,34.97,West,Credit Card,CUST-483,279.76,June,2023
+ORD-1969,2023-05-07,Desk Lamp,Office,2,38.41,Central,Debit Card,CUST-214,76.82,May,2023
+ORD-1046,2023-12-06,Mouse,Accessories,3,28.09,Central,Cash,CUST-382,84.27,December,2023
+ORD-1349,2023-02-28,Mouse,Accessories,10,22.02,Central,Cash,CUST-280,220.2,February,2023
+ORD-2105,2023-12-15,Webcam,Electronics,9,74.44,South,PayPal,CUST-284,669.96,December,2023
+ORD-1876,2023-03-08,Keyboard,Accessories,5,63.29,Central,PayPal,CUST-326,316.45,March,2023
+ORD-1195,2023-12-03,Desk Lamp,Office,9,25.65,West,Bank Transfer,CUST-394,230.85,December,2023
+ORD-1102,2023-01-23,Desk Lamp,Office,4,32.18,East,Credit Card,CUST-472,128.72,January,2023
+ORD-1004,2023-03-01,Monitor,Electronics,2,331.4,West,Debit Card,CUST-276,662.8,March,2023
+ORD-1619,2023-08-03,Laptop,Electronics,4,947.35,South,Bank Transfer,CUST-110,3789.4,August,2023
+ORD-1571,2023-02-16,Keyboard,Accessories,3,55.96,North,Debit Card,CUST-359,167.88,February,2023
+ORD-1052,2023-01-26,Webcam,Electronics,6,67.8,South,Credit Card,CUST-212,406.8,January,2023
+ORD-1263,2023-08-01,Laptop,Electronics,9,961.8,North,Bank Transfer,CUST-453,8656.2,August,2023
+ORD-2166,2023-05-21,Charger,Accessories,6,16.54,West,Debit Card,CUST-102,99.24,May,2023
+ORD-1443,2023-07-29,Notebook,Office,10,24.34,South,Bank Transfer,CUST-161,243.4,July,2023
+ORD-2066,2023-11-12,Charger,Accessories,7,21.11,South,Cash,CUST-406,147.77,November,2023
+ORD-1782,2023-07-10,Mouse,Accessories,1,29.14,East,Cash,CUST-348,29.14,July,2023
+ORD-1837,2023-04-25,USB Hub,Accessories,4,40.08,South,Debit Card,CUST-351,160.32,April,2023
+ORD-2132,2023-09-02,Monitor,Electronics,4,316.26,Central,Debit Card,CUST-340,1265.04,September,2023
+ORD-1691,2023-01-23,Laptop,Electronics,1,961.77,Central,Bank Transfer,CUST-253,961.77,January,2023
+ORD-1304,2023-12-09,USB Hub,Accessories,4,39.5,North,Cash,CUST-140,158.0,December,2023
+ORD-1341,2023-06-08,Desk Lamp,Office,10,33.39,South,Bank Transfer,CUST-279,333.9,June,2023
+ORD-1996,2023-04-21,Webcam,Electronics,4,75.7,Central,Bank Transfer,CUST-467,302.8,April,2023
+ORD-1313,2023-06-10,Headphones,Accessories,9,88.55,East,Credit Card,CUST-487,796.95,June,2023
+ORD-1149,2023-04-27,Webcam,Electronics,10,69.65,West,PayPal,CUST-255,696.5,April,2023
+ORD-1124,2023-03-06,Charger,Accessories,2,16.12,South,PayPal,CUST-402,32.24,March,2023
+ORD-2135,2023-06-10,Monitor,Electronics,7,319.14,Central,Debit Card,UNKNOWN,2233.98,June,2023
+ORD-1574,2023-06-28,Keyboard,Accessories,7,61.93,Central,Bank Transfer,CUST-234,433.51,June,2023
+ORD-1697,2023-07-23,Charger,Accessories,4,15.92,South,Bank Transfer,CUST-312,63.68,July,2023
+ORD-1664,2023-02-04,Mouse,Accessories,10,32.44,East,Cash,CUST-247,324.4,February,2023
+ORD-1050,2023-11-02,Headphones,Accessories,4,84.24,Central,Debit Card,CUST-305,336.96,November,2023
+ORD-1988,2023-06-07,USB Hub,Accessories,7,41.5,East,Cash,CUST-233,290.5,June,2023
+ORD-1726,2023-02-10,Monitor,Electronics,9,324.83,South,Bank Transfer,UNKNOWN,2923.47,February,2023
+ORD-1799,2023-07-18,Mouse,Accessories,10,36.78,North,Debit Card,CUST-220,367.8,July,2023
+ORD-1833,2023-11-23,Charger,Accessories,2,28.45,North,PayPal,CUST-309,56.9,November,2023
+ORD-1353,2023-06-28,Headphones,Accessories,6,83.22,Central,PayPal,CUST-473,499.32,June,2023
+ORD-1598,2023-12-28,Desk Lamp,Office,7,44.89,Central,PayPal,CUST-149,314.23,December,2023
+ORD-1142,2023-02-28,Desk Lamp,Office,8,28.76,Central,PayPal,CUST-295,230.08,February,2023
+ORD-1470,2023-12-24,Headphones,Accessories,2,78.0,West,Bank Transfer,CUST-239,156.0,December,2023
+ORD-1882,2023-03-20,Notebook,Office,7,16.04,East,Cash,CUST-146,112.28,March,2023
+ORD-1653,2023-10-11,Keyboard,Accessories,4,66.03,North,Bank Transfer,CUST-185,264.12,October,2023
+ORD-1399,2023-01-30,Notebook,Office,9,8.86,Central,PayPal,CUST-366,79.74,January,2023
+ORD-1511,2023-12-05,Keyboard,Accessories,1,65.76,West,Cash,CUST-489,65.76,December,2023
+ORD-1677,2023-11-26,Monitor,Electronics,5,317.26,Central,PayPal,CUST-403,1586.3,November,2023
+ORD-1320,2023-08-02,Laptop,Electronics,5,961.17,West,Bank Transfer,CUST-362,4805.85,August,2023
+ORD-1019,2023-12-02,Desk Lamp,Office,5,40.6,West,Debit Card,CUST-263,203.0,December,2023
+ORD-1684,2023-04-04,Webcam,Electronics,8,81.05,North,Bank Transfer,CUST-318,648.4,April,2023
+ORD-1035,2023-07-08,Mouse,Accessories,1,20.81,North,Bank Transfer,CUST-389,20.81,July,2023
+ORD-1824,2023-02-03,Mouse,Accessories,4,34.03,South,Bank Transfer,CUST-220,136.12,February,2023
+ORD-1902,2023-10-01,Mouse,Accessories,6,30.28,South,Cash,CUST-270,181.68,October,2023
+ORD-1505,2023-06-01,Webcam,Electronics,3,78.59,North,PayPal,CUST-267,235.77,June,2023
+ORD-1827,2023-05-29,Notebook,Office,4,23.71,East,Debit Card,CUST-173,94.84,May,2023
+ORD-2144,2023-11-26,Laptop,Electronics,3,955.43,Central,Bank Transfer,CUST-387,2866.29,November,2023
+ORD-1407,2023-09-17,Webcam,Electronics,4,81.47,East,Debit Card,CUST-469,325.88,September,2023
+ORD-1920,2023-11-25,Charger,Accessories,1,22.16,West,Bank Transfer,CUST-114,22.16,November,2023
+ORD-1817,2023-08-16,Laptop,Electronics,5,964.41,Central,Bank Transfer,CUST-260,4822.05,August,2023
+ORD-1866,2023-08-19,Monitor,Electronics,3,317.05,Central,Credit Card,CUST-382,951.15,August,2023
+ORD-1537,2023-08-29,Mouse,Accessories,5,29.75,West,PayPal,CUST-261,148.75,August,2023
+ORD-1758,2023-07-06,Webcam,Electronics,3,76.2,Central,PayPal,CUST-198,228.6,July,2023
+ORD-2141,2023-07-01,Laptop,Electronics,2,964.61,West,Debit Card,CUST-326,1929.22,July,2023
+ORD-1676,2023-06-23,Notebook,Office,6,20.94,East,Debit Card,CUST-148,125.64,June,2023
+ORD-1038,2023-07-03,Mouse,Accessories,10,21.82,North,Bank Transfer,CUST-273,218.2,July,2023
+ORD-1175,2023-10-28,Headphones,Accessories,6,90.84,Central,PayPal,CUST-491,545.04,October,2023
+ORD-1245,2023-06-16,Mouse,Accessories,1,32.27,Central,Credit Card,CUST-106,32.27,June,2023
+ORD-1810,2023-09-09,Charger,Accessories,10,25.08,South,Debit Card,CUST-228,250.8,September,2023
+ORD-2158,2023-04-17,Desk Lamp,Office,6,32.06,West,Bank Transfer,UNKNOWN,192.36,April,2023
+ORD-2090,2023-08-31,Charger,Accessories,6,25.77,South,Debit Card,CUST-167,154.62,August,2023
+ORD-2063,2023-06-13,USB Hub,Accessories,10,36.36,Central,PayPal,CUST-281,363.6,June,2023
+ORD-1784,2023-02-09,Headphones,Accessories,1,89.34,West,Bank Transfer,CUST-110,89.34,February,2023
+ORD-1086,2023-01-27,Webcam,Electronics,1,77.38,Central,PayPal,CUST-303,77.38,January,2023
+ORD-1489,2023-12-10,Monitor,Electronics,6,319.45,North,Bank Transfer,CUST-354,1916.7,December,2023
+ORD-1154,2023-08-01,Notebook,Office,1,9.03,South,Bank Transfer,CUST-214,9.03,August,2023
+ORD-1638,2023-06-30,Charger,Accessories,2,28.38,Central,Cash,CUST-299,56.76,June,2023
+ORD-1961,2023-10-15,Mouse,Accessories,2,23.85,Central,Debit Card,CUST-201,47.7,October,2023
+ORD-1662,2023-01-09,Notebook,Office,7,12.15,Central,Credit Card,CUST-374,85.05,January,2023
+ORD-1853,2023-02-03,Keyboard,Accessories,9,52.91,East,Bank Transfer,CUST-288,476.19,February,2023
+ORD-1942,2023-02-07,Laptop,Electronics,8,953.91,North,Debit Card,CUST-465,7631.28,February,2023
+ORD-1287,2023-04-19,Laptop,Electronics,4,954.3,West,PayPal,CUST-275,3817.2,April,2023
+ORD-1625,2023-09-13,Laptop,Electronics,8,955.46,South,PayPal,CUST-316,7643.68,September,2023
+ORD-1439,2023-07-06,Notebook,Office,9,5.17,North,Credit Card,CUST-367,46.53,July,2023
+ORD-1685,2023-03-11,Desk Lamp,Office,2,38.57,Central,PayPal,CUST-207,77.14,March,2023
+ORD-2087,2023-11-19,USB Hub,Accessories,9,46.84,Central,Debit Card,CUST-352,421.56,November,2023
+ORD-2002,2023-09-11,Notebook,Office,1,6.45,West,Bank Transfer,CUST-353,6.45,September,2023
+ORD-1569,2023-03-17,Mouse,Accessories,8,23.34,North,Credit Card,CUST-387,186.72,March,2023
+ORD-1380,2023-11-18,Desk Lamp,Office,8,41.52,Central,Credit Card,CUST-401,332.16,November,2023
+ORD-1734,2023-02-10,Laptop,Electronics,8,954.18,North,Bank Transfer,CUST-177,7633.44,February,2023
+ORD-1792,2023-05-23,Headphones,Accessories,7,88.17,West,Credit Card,CUST-286,617.19,May,2023
+ORD-1017,2023-03-21,Notebook,Office,5,6.49,Central,Debit Card,CUST-174,32.45,March,2023
+ORD-1127,2023-11-21,Desk Lamp,Office,9,41.93,North,Credit Card,CUST-145,377.37,November,2023
+ORD-1322,2023-02-28,Notebook,Office,6,13.47,West,Bank Transfer,CUST-130,80.82,February,2023
+ORD-1255,2023-02-11,USB Hub,Accessories,9,43.94,South,Debit Card,CUST-152,395.46,February,2023
+ORD-2053,2023-06-20,Webcam,Electronics,5,66.35,South,PayPal,CUST-405,331.75,June,2023
+ORD-1982,2023-04-08,Charger,Accessories,4,24.18,North,Bank Transfer,CUST-186,96.72,April,2023
+ORD-1927,2023-11-13,Webcam,Electronics,2,73.32,North,Credit Card,CUST-327,146.64,November,2023
+ORD-1980,2023-10-23,Headphones,Accessories,10,89.94,West,Credit Card,CUST-234,899.4,October,2023
+ORD-1988,2023-06-07,USB Hub,Accessories,7,41.5,East,Cash,CUST-233,290.5,June,2023
+ORD-1190,2023-02-23,Monitor,Electronics,4,333.98,West,Bank Transfer,CUST-455,1335.92,February,2023
+ORD-1115,2023-09-09,Mouse,Accessories,4,30.59,South,Cash,CUST-406,122.36,September,2023
+ORD-1992,2023-07-21,Keyboard,Accessories,3,62.6,Central,Cash,CUST-187,187.8,July,2023
+ORD-1737,2023-06-01,Mouse,Accessories,10,37.13,West,Bank Transfer,CUST-491,371.3,June,2023
+ORD-2023,2023-07-05,Webcam,Electronics,6,79.59,West,Cash,CUST-314,477.54,July,2023
+ORD-1606,2023-04-21,Laptop,Electronics,9,954.49,East,Bank Transfer,CUST-225,8590.41,April,2023
+ORD-1180,2023-03-04,Desk Lamp,Office,2,38.87,East,Credit Card,CUST-481,77.74,March,2023
+ORD-1301,2023-04-28,Laptop,Electronics,6,953.37,South,Bank Transfer,CUST-164,5720.22,April,2023
+ORD-1496,2023-04-03,Charger,Accessories,2,31.81,North,PayPal,CUST-127,63.62,April,2023
+ORD-1348,2023-11-21,Mouse,Accessories,7,31.25,Central,Debit Card,CUST-278,218.75,November,2023
+ORD-2106,2023-05-05,Notebook,Office,6,20.5,South,PayPal,CUST-320,123.0,May,2023
+ORD-1036,2023-10-06,Mouse,Accessories,5,36.72,Central,Bank Transfer,CUST-473,183.6,October,2023
+ORD-1744,2023-08-16,Charger,Accessories,6,26.14,North,Credit Card,CUST-204,156.84,August,2023
+ORD-2155,2023-06-02,Desk Lamp,Office,9,32.53,West,Cash,CUST-245,292.77,June,2023
+ORD-2073,2023-09-08,Headphones,Accessories,8,79.92,East,PayPal,CUST-417,639.36,September,2023
+ORD-1517,2023-03-20,Mouse,Accessories,3,37.33,South,Cash,CUST-352,111.99,March,2023
+ORD-1476,2023-02-13,Keyboard,Accessories,4,63.21,East,Cash,CUST-441,252.84,February,2023
+ORD-1157,2023-08-07,Laptop,Electronics,1,963.38,Central,Credit Card,CUST-178,963.38,August,2023
+ORD-1016,2023-10-28,Desk Lamp,Office,4,30.44,Central,PayPal,CUST-493,121.76,October,2023
+ORD-1546,2023-09-15,Notebook,Office,7,14.79,Central,Credit Card,CUST-499,103.53,September,2023
+ORD-1658,2023-11-22,Charger,Accessories,10,15.92,Central,Debit Card,CUST-203,159.2,November,2023
+ORD-2050,2023-01-24,Webcam,Electronics,9,74.23,Central,Debit Card,CUST-462,668.07,January,2023
+ORD-2019,2023-01-27,USB Hub,Accessories,2,32.88,Central,Bank Transfer,CUST-244,65.76,January,2023
+ORD-2074,2023-12-29,Webcam,Electronics,10,69.43,West,Credit Card,CUST-295,694.3,December,2023
+ORD-1959,2023-07-09,Charger,Accessories,2,15.88,South,Bank Transfer,CUST-267,31.76,July,2023
+ORD-2120,2023-07-30,Notebook,Office,1,8.32,Central,Debit Card,CUST-177,8.32,July,2023
+ORD-1283,2023-01-29,Charger,Accessories,8,32.71,South,Cash,CUST-326,261.68,January,2023
+ORD-1797,2023-09-13,Keyboard,Accessories,3,50.97,Central,Bank Transfer,CUST-470,152.91,September,2023
+ORD-1225,2023-01-04,USB Hub,Accessories,9,40.92,South,Debit Card,CUST-491,368.28,January,2023
+ORD-1026,2023-12-20,Headphones,Accessories,3,94.29,Central,Bank Transfer,CUST-431,282.87,December,2023
+ORD-1437,2023-11-09,Headphones,Accessories,10,87.95,West,Cash,CUST-302,879.5,November,2023
+ORD-1950,2023-04-15,Notebook,Office,1,23.9,North,Bank Transfer,CUST-263,23.9,April,2023
+ORD-1229,2023-12-03,Mouse,Accessories,9,33.02,Central,PayPal,CUST-185,297.18,December,2023
+ORD-1037,2023-11-27,USB Hub,Accessories,10,36.56,Central,Bank Transfer,CUST-326,365.6,November,2023
+ORD-1749,2023-11-11,Monitor,Electronics,10,321.09,North,PayPal,CUST-182,3210.9,November,2023
+ORD-1469,2023-12-02,Desk Lamp,Office,3,30.98,Central,Bank Transfer,CUST-403,92.94,December,2023
+ORD-1184,2023-08-05,Webcam,Electronics,2,76.78,East,PayPal,UNKNOWN,153.56,August,2023
+ORD-2001,2023-05-25,Headphones,Accessories,5,89.02,Central,Bank Transfer,CUST-444,445.1,May,2023
+ORD-1687,2023-08-23,Webcam,Electronics,8,72.6,Central,Credit Card,CUST-139,580.8,August,2023
+ORD-1639,2023-05-04,Laptop,Electronics,2,947.98,North,Debit Card,CUST-265,1895.96,May,2023
+ORD-2143,2023-12-15,Charger,Accessories,1,29.07,South,PayPal,CUST-463,29.07,December,2023
+ORD-2070,2023-09-17,Laptop,Electronics,2,951.33,Central,PayPal,CUST-102,1902.66,September,2023
+ORD-2161,2023-09-08,Headphones,Accessories,10,84.64,East,Cash,CUST-388,846.4,September,2023
+ORD-1800,2023-10-15,Laptop,Electronics,1,954.66,North,Cash,CUST-157,954.66,October,2023
+ORD-1160,2023-05-11,Headphones,Accessories,2,75.44,Central,PayPal,CUST-427,150.88,May,2023
+ORD-1956,2023-06-26,Desk Lamp,Office,2,32.5,South,Cash,CUST-188,65.0,June,2023
+ORD-1821,2023-12-08,Headphones,Accessories,1,89.0,North,Credit Card,CUST-299,89.0,December,2023
+ORD-2088,2023-01-14,Notebook,Office,5,22.17,South,Debit Card,CUST-273,110.85,January,2023
+ORD-1877,2023-08-10,Mouse,Accessories,7,38.53,Central,Cash,CUST-298,269.71,August,2023
+ORD-1913,2023-11-06,Charger,Accessories,2,21.45,East,Debit Card,CUST-408,42.9,November,2023
+ORD-1152,2023-08-21,Desk Lamp,Office,8,25.01,Central,PayPal,CUST-478,200.08,August,2023
+ORD-2170,2023-12-13,USB Hub,Accessories,9,37.24,North,Debit Card,CUST-192,335.16,December,2023
+ORD-2075,2023-10-16,Webcam,Electronics,10,79.8,East,Bank Transfer,CUST-254,798.0,October,2023
+ORD-1103,2023-12-04,Headphones,Accessories,4,85.89,Central,Bank Transfer,CUST-327,343.56,December,2023
+ORD-1586,2023-01-15,USB Hub,Accessories,10,44.54,South,Cash,CUST-402,445.4,January,2023
+ORD-2133,2023-09-27,Notebook,Office,6,12.39,Central,Bank Transfer,CUST-233,74.34,September,2023
+ORD-1053,2023-06-20,Notebook,Office,3,5.24,West,PayPal,CUST-328,15.72,June,2023
+ORD-1151,2023-06-23,Desk Lamp,Office,9,35.53,South,Credit Card,CUST-386,319.77,June,2023
+ORD-1403,2023-11-27,Keyboard,Accessories,2,59.13,North,Debit Card,CUST-284,118.26,November,2023
+ORD-1207,2023-10-15,Desk Lamp,Office,1,42.71,Central,PayPal,CUST-183,42.71,October,2023
+ORD-1044,2023-08-21,Charger,Accessories,9,34.81,North,Cash,CUST-171,313.29,August,2023
+ORD-1008,2023-03-11,Mouse,Accessories,2,39.28,South,Debit Card,CUST-376,78.56,March,2023
+ORD-2014,2023-07-07,Charger,Accessories,7,17.73,East,Cash,CUST-166,124.11,July,2023
+ORD-2060,2023-03-13,Headphones,Accessories,9,77.0,South,Credit Card,CUST-270,693.0,March,2023
+ORD-1452,2023-06-18,Notebook,Office,3,12.94,South,Debit Card,CUST-133,38.82,June,2023
+ORD-1253,2023-01-26,Monitor,Electronics,6,319.11,East,Cash,CUST-274,1914.66,January,2023
+ORD-1896,2023-10-10,Laptop,Electronics,7,964.29,Central,Credit Card,CUST-141,6750.03,October,2023
+ORD-2120,2023-07-30,Notebook,Office,1,8.32,Central,Debit Card,CUST-177,8.32,July,2023
+ORD-1855,2023-07-23,USB Hub,Accessories,6,34.0,West,Cash,CUST-110,204.0,July,2023
+ORD-1345,2023-03-28,Mouse,Accessories,4,35.17,West,PayPal,CUST-482,140.68,March,2023
+ORD-2101,2023-11-19,Desk Lamp,Office,10,43.13,South,Bank Transfer,CUST-165,431.3,November,2023
+ORD-1262,2023-08-15,USB Hub,Accessories,3,41.44,North,PayPal,CUST-414,124.32,August,2023
+ORD-1150,2023-07-31,Keyboard,Accessories,1,54.38,North,Bank Transfer,CUST-352,54.38,July,2023
+ORD-1472,2023-07-20,Webcam,Electronics,6,82.99,West,Credit Card,CUST-429,497.94,July,2023
+ORD-1640,2023-10-20,Desk Lamp,Office,4,26.8,Central,Cash,CUST-393,107.2,October,2023
+ORD-1549,2023-03-24,Desk Lamp,Office,5,37.29,North,Debit Card,CUST-184,186.45,March,2023
+ORD-1323,2023-07-27,Notebook,Office,9,24.77,East,Bank Transfer,CUST-340,222.93,July,2023
+ORD-1928,2023-11-24,USB Hub,Accessories,6,40.74,East,Cash,CUST-428,244.44,November,2023
+ORD-1488,2023-11-27,Headphones,Accessories,4,89.53,North,Bank Transfer,CUST-350,358.12,November,2023
+ORD-2108,2023-10-21,USB Hub,Accessories,8,34.47,South,Bank Transfer,CUST-234,275.76,October,2023
+ORD-1146,2023-04-21,Notebook,Office,9,11.18,North,PayPal,CUST-121,100.62,April,2023
+ORD-1402,2023-02-09,Keyboard,Accessories,2,54.99,North,Credit Card,CUST-490,109.98,February,2023
+ORD-1954,2023-06-10,Monitor,Electronics,3,333.23,North,Credit Card,CUST-168,999.69,June,2023
+ORD-1659,2023-07-18,Headphones,Accessories,4,92.04,West,Credit Card,CUST-354,368.16,July,2023
+ORD-1463,2023-02-11,Mouse,Accessories,4,39.77,Central,Debit Card,CUST-355,159.08,February,2023
+ORD-1186,2023-05-28,Desk Lamp,Office,9,31.14,South,Debit Card,CUST-232,280.26,May,2023
+ORD-1608,2023-10-08,Webcam,Electronics,9,78.9,South,Debit Card,CUST-220,710.1,October,2023
+ORD-1143,2023-12-02,Mouse,Accessories,1,39.76,Central,PayPal,CUST-248,39.76,December,2023
+ORD-1751,2023-05-21,Monitor,Electronics,2,319.14,South,Credit Card,CUST-451,638.28,May,2023
+ORD-1981,2023-06-10,USB Hub,Accessories,8,33.08,North,Bank Transfer,CUST-459,264.64,June,2023
+ORD-1197,2023-04-25,Notebook,Office,9,23.42,North,Cash,UNKNOWN,210.78,April,2023
+ORD-1883,2023-06-05,Headphones,Accessories,9,75.26,West,Credit Card,CUST-487,677.34,June,2023
+ORD-1279,2023-01-24,Webcam,Electronics,5,78.22,East,PayPal,UNKNOWN,391.1,January,2023
+ORD-1293,2023-01-04,Mouse,Accessories,1,21.71,South,Debit Card,CUST-160,21.71,January,2023
+ORD-2189,2023-10-15,Notebook,Office,8,10.17,North,Credit Card,CUST-178,81.36,October,2023
+ORD-1400,2023-07-08,Keyboard,Accessories,7,66.66,Central,Bank Transfer,CUST-169,466.62,July,2023
+ORD-1122,2023-03-17,USB Hub,Accessories,2,46.33,Central,Cash,CUST-271,92.66,March,2023
+ORD-1202,2023-02-28,Monitor,Electronics,6,317.81,East,PayPal,CUST-263,1906.86,February,2023
+ORD-1835,2023-07-05,Headphones,Accessories,2,88.0,West,Cash,CUST-401,176.0,July,2023
+ORD-1246,2023-10-18,Charger,Accessories,9,24.65,East,PayPal,CUST-170,221.85,October,2023
+ORD-1058,2023-02-05,Headphones,Accessories,6,82.44,North,Cash,CUST-411,494.64,February,2023
+ORD-1384,2023-02-04,Desk Lamp,Office,10,28.76,East,Cash,CUST-154,287.6,February,2023
+ORD-1854,2023-06-08,Laptop,Electronics,3,958.41,West,Debit Card,CUST-257,2875.23,June,2023
+ORD-1219,2023-04-03,USB Hub,Accessories,1,37.72,West,Bank Transfer,CUST-139,37.72,April,2023
+ORD-1641,2023-08-02,Laptop,Electronics,6,955.23,West,PayPal,CUST-150,5731.38,August,2023
+ORD-1001,2023-01-20,Laptop,Electronics,4,946.7,West,Cash,CUST-117,3786.8,January,2023
+ORD-1112,2023-08-07,Charger,Accessories,8,30.57,North,Cash,CUST-312,244.56,August,2023
+ORD-1698,2023-10-06,Keyboard,Accessories,9,55.23,Central,Bank Transfer,CUST-305,497.07,October,2023
+ORD-1344,2023-06-20,Headphones,Accessories,3,86.76,South,PayPal,CUST-174,260.28,June,2023
+ORD-1951,2023-06-24,Charger,Accessories,6,22.72,East,Debit Card,CUST-331,136.32,June,2023
+ORD-2192,2023-03-12,Notebook,Office,5,16.99,West,Cash,CUST-335,84.95,March,2023
+ORD-1441,2023-05-25,Laptop,Electronics,4,961.1,East,Credit Card,CUST-446,3844.4,May,2023
+ORD-1663,2023-07-02,Notebook,Office,8,13.75,Central,Credit Card,CUST-209,110.0,July,2023
+ORD-2169,2023-10-21,Monitor,Electronics,4,318.74,Central,PayPal,CUST-392,1274.96,October,2023
+ORD-1317,2023-07-27,Charger,Accessories,8,18.46,East,Credit Card,CUST-155,147.68,July,2023
+ORD-1648,2023-02-04,Monitor,Electronics,7,324.29,North,Credit Card,CUST-354,2270.03,February,2023
+ORD-1709,2023-05-20,Headphones,Accessories,3,89.01,South,Debit Card,CUST-460,267.03,May,2023
+ORD-1972,2023-01-26,Monitor,Electronics,1,323.48,East,Debit Card,CUST-385,323.48,January,2023
+ORD-1627,2023-10-02,USB Hub,Accessories,8,44.07,North,Cash,CUST-363,352.56,October,2023
+ORD-1632,2023-05-04,Webcam,Electronics,7,83.66,Central,Credit Card,CUST-340,585.62,May,2023
+ORD-1043,2023-03-04,Laptop,Electronics,9,950.2,Central,Debit Card,CUST-120,8551.8,March,2023
+ORD-2196,2023-05-03,Headphones,Accessories,9,88.23,West,PayPal,CUST-332,794.07,May,2023
+ORD-1795,2023-01-14,Desk Lamp,Office,8,34.98,East,Debit Card,CUST-146,279.84,January,2023
+ORD-1645,2023-02-13,Laptop,Electronics,10,949.62,East,Credit Card,CUST-445,9496.2,February,2023
+ORD-2012,2023-03-10,Desk Lamp,Office,4,34.48,South,Cash,CUST-353,137.92,March,2023
+ORD-1556,2023-09-04,Headphones,Accessories,7,82.46,North,Bank Transfer,CUST-349,577.22,September,2023
+ORD-1681,2023-12-23,Mouse,Accessories,9,23.19,Central,Bank Transfer,CUST-390,208.71,December,2023
+ORD-1577,2023-01-28,USB Hub,Accessories,7,49.91,South,PayPal,CUST-293,349.37,January,2023
+ORD-2109,2023-12-25,Headphones,Accessories,10,90.44,North,Cash,CUST-413,904.4,December,2023
+ORD-1524,2023-01-23,USB Hub,Accessories,9,37.63,East,PayPal,CUST-358,338.67,January,2023
+ORD-2059,2023-09-21,Monitor,Electronics,3,328.11,Central,Cash,CUST-126,984.33,September,2023
+ORD-1540,2023-12-14,Charger,Accessories,2,27.69,West,Debit Card,CUST-335,55.38,December,2023
+ORD-1748,2023-06-30,Headphones,Accessories,5,87.38,Central,PayPal,CUST-430,436.9,June,2023
+ORD-2183,2023-05-12,USB Hub,Accessories,5,41.47,South,PayPal,CUST-162,207.35,May,2023
+ORD-1484,2023-12-26,USB Hub,Accessories,1,30.71,West,Bank Transfer,CUST-332,30.71,December,2023
+ORD-1095,2023-09-20,USB Hub,Accessories,7,47.69,West,Debit Card,CUST-276,333.83,September,2023
+ORD-2020,2023-10-19,Monitor,Electronics,9,328.55,East,Cash,CUST-472,2956.95,October,2023
+ORD-1563,2023-05-26,Headphones,Accessories,5,79.98,East,Debit Card,CUST-383,399.9,May,2023
+ORD-1742,2023-03-27,Monitor,Electronics,2,317.05,Central,Bank Transfer,CUST-132,634.1,March,2023
+ORD-1863,2023-06-12,Headphones,Accessories,7,90.07,Central,Bank Transfer,CUST-443,630.49,June,2023
+ORD-1891,2023-05-26,Desk Lamp,Office,2,37.95,Central,Bank Transfer,CUST-492,75.9,May,2023
+ORD-2038,2023-07-21,Charger,Accessories,4,27.92,South,Bank Transfer,CUST-334,111.68,July,2023
+ORD-1206,2023-08-08,Mouse,Accessories,2,23.36,Central,Debit Card,CUST-282,46.72,August,2023
+ORD-1392,2023-06-30,Webcam,Electronics,1,68.18,Central,PayPal,CUST-308,68.18,June,2023
+ORD-1794,2023-02-28,Laptop,Electronics,7,947.69,East,Credit Card,CUST-436,6633.83,February,2023
+ORD-1870,2023-06-26,USB Hub,Accessories,6,44.85,Central,PayPal,CUST-458,269.1,June,2023
+ORD-1397,2023-08-20,Desk Lamp,Office,5,42.59,East,Cash,CUST-338,212.95,August,2023
+ORD-1766,2023-08-13,Headphones,Accessories,10,81.83,West,Bank Transfer,CUST-316,818.3,August,2023
+ORD-2173,2023-07-22,Mouse,Accessories,1,24.61,Central,PayPal,CUST-226,24.61,July,2023
+ORD-2028,2023-09-16,Charger,Accessories,6,17.46,South,Bank Transfer,CUST-248,104.76,September,2023
+ORD-1642,2023-04-06,Webcam,Electronics,3,79.47,South,Debit Card,CUST-350,238.41,April,2023
+ORD-1612,2023-02-26,Keyboard,Accessories,8,63.25,East,PayPal,CUST-143,506.0,February,2023
+ORD-1960,2023-09-21,Charger,Accessories,2,32.97,Central,Debit Card,CUST-244,65.94,September,2023
+ORD-1725,2023-08-06,Charger,Accessories,2,16.5,East,Credit Card,CUST-472,33.0,August,2023
+ORD-1683,2023-11-20,Laptop,Electronics,6,956.82,South,Bank Transfer,CUST-343,5740.92,November,2023
+ORD-1098,2023-08-20,Headphones,Accessories,2,91.04,Central,Credit Card,CUST-328,182.08,August,2023
+ORD-1804,2023-12-27,Charger,Accessories,5,26.57,Central,Debit Card,CUST-161,132.85,December,2023
+ORD-1406,2023-11-01,Keyboard,Accessories,4,55.48,South,Credit Card,CUST-385,221.92,November,2023
+ORD-1502,2023-03-12,Headphones,Accessories,5,91.17,East,Credit Card,CUST-295,455.85,March,2023
+ORD-2071,2023-09-18,Webcam,Electronics,7,73.57,West,Credit Card,CUST-229,514.99,September,2023
+ORD-2056,2023-08-22,Laptop,Electronics,2,954.74,South,Credit Card,UNKNOWN,1909.48,August,2023
+ORD-1929,2023-01-16,Charger,Accessories,5,16.84,South,Debit Card,CUST-169,84.2,January,2023
+ORD-1779,2023-12-14,Desk Lamp,Office,6,28.75,East,Bank Transfer,CUST-429,172.5,December,2023
+ORD-1200,2023-10-12,Mouse,Accessories,4,31.31,Central,PayPal,CUST-129,125.24,October,2023
+ORD-1134,2023-09-29,Headphones,Accessories,9,91.12,Central,Bank Transfer,CUST-384,820.08,September,2023
+ORD-2051,2023-01-20,Desk Lamp,Office,10,35.99,Central,Bank Transfer,CUST-316,359.9,January,2023
+ORD-1040,2023-07-23,Webcam,Electronics,6,72.11,West,Cash,CUST-157,432.66,July,2023
+ORD-2017,2023-01-24,Monitor,Electronics,8,325.91,Central,Credit Card,CUST-407,2607.28,January,2023
+ORD-1230,2023-07-25,Laptop,Electronics,5,958.74,Central,PayPal,CUST-378,4793.7,July,2023
+ORD-1378,2023-11-16,Mouse,Accessories,4,39.48,Central,Debit Card,CUST-287,157.92,November,2023
+ORD-1288,2023-03-12,Desk Lamp,Office,1,29.52,Central,Cash,CUST-188,29.52,March,2023
+ORD-1418,2023-11-06,Charger,Accessories,10,18.27,West,PayPal,CUST-259,182.7,November,2023
+ORD-1391,2023-01-29,Laptop,Electronics,7,955.31,West,Debit Card,CUST-216,6687.17,January,2023
+ORD-1592,2023-03-12,Laptop,Electronics,6,958.01,South,Bank Transfer,CUST-398,5748.06,March,2023
+ORD-2162,2023-06-12,Charger,Accessories,5,27.08,Central,Bank Transfer,CUST-439,135.4,June,2023
+ORD-2086,2023-12-19,Notebook,Office,9,17.13,Central,Cash,CUST-357,154.17,December,2023
+ORD-1647,2023-07-04,Monitor,Electronics,6,320.92,South,Credit Card,CUST-272,1925.52,July,2023
+ORD-2152,2023-10-13,Keyboard,Accessories,5,63.07,South,Cash,CUST-278,315.35,October,2023
+ORD-1520,2023-12-21,Notebook,Office,7,6.42,West,Bank Transfer,CUST-250,44.94,December,2023
+ORD-1064,2023-06-18,Charger,Accessories,7,15.44,North,Bank Transfer,CUST-500,108.08,June,2023
+ORD-1014,2023-10-04,Monitor,Electronics,8,329.71,Central,Bank Transfer,CUST-307,2637.68,October,2023
+ORD-2180,2023-06-27,Webcam,Electronics,6,81.67,South,Cash,CUST-245,490.02,June,2023
+ORD-2064,2023-03-25,Mouse,Accessories,2,29.01,Central,Cash,CUST-410,58.02,March,2023
+ORD-1492,2023-07-05,Notebook,Office,7,23.13,East,Cash,CUST-168,161.91,July,2023
+ORD-1379,2023-06-15,Keyboard,Accessories,9,58.86,Central,Debit Card,CUST-457,529.74,June,2023
+ORD-1187,2023-11-04,Charger,Accessories,7,28.77,Central,PayPal,CUST-421,201.39,November,2023
+ORD-1763,2023-03-15,Charger,Accessories,7,17.28,North,Bank Transfer,CUST-348,120.96,March,2023
+ORD-1216,2023-12-22,Charger,Accessories,1,20.13,West,Credit Card,CUST-249,20.13,December,2023
+ORD-1791,2023-11-29,Keyboard,Accessories,8,59.01,South,PayPal,CUST-308,472.08,November,2023
+ORD-2076,2023-06-03,USB Hub,Accessories,1,38.72,South,Bank Transfer,CUST-302,38.72,June,2023
+ORD-1878,2023-09-15,Laptop,Electronics,7,952.75,Central,Bank Transfer,CUST-104,6669.25,September,2023
+ORD-1337,2023-07-25,Charger,Accessories,1,32.47,West,Credit Card,CUST-400,32.47,July,2023
+ORD-1719,2023-12-21,USB Hub,Accessories,1,31.09,West,PayPal,CUST-426,31.09,December,2023
+ORD-1295,2023-08-09,USB Hub,Accessories,4,40.83,North,Bank Transfer,CUST-165,163.32,August,2023
+ORD-2016,2023-07-07,Monitor,Electronics,4,330.95,East,Bank Transfer,CUST-205,1323.8,July,2023
+ORD-1455,2023-12-14,Laptop,Electronics,4,958.25,North,Debit Card,CUST-273,3833.0,December,2023
+ORD-1815,2023-08-20,Mouse,Accessories,10,25.47,Central,PayPal,CUST-162,254.7,August,2023
+ORD-1269,2023-08-09,Desk Lamp,Office,8,37.0,West,Credit Card,UNKNOWN,296.0,August,2023
+ORD-1995,2023-05-04,USB Hub,Accessories,2,43.47,West,Credit Card,CUST-107,86.94,May,2023
+ORD-1201,2023-07-08,Laptop,Electronics,8,963.73,East,Credit Card,CUST-174,7709.84,July,2023
+ORD-1161,2023-07-11,Monitor,Electronics,1,326.73,South,PayPal,CUST-425,326.73,July,2023
+ORD-1729,2023-04-03,Webcam,Electronics,6,66.01,North,PayPal,UNKNOWN,396.06,April,2023
+ORD-1401,2023-05-27,Monitor,Electronics,3,331.74,West,Bank Transfer,CUST-353,995.22,May,2023
+ORD-1702,2023-11-28,Headphones,Accessories,6,90.35,East,Bank Transfer,UNKNOWN,542.1,November,2023
+ORD-2129,2023-10-15,Notebook,Office,1,12.18,West,Debit Card,CUST-217,12.18,October,2023
+ORD-1565,2023-03-24,Headphones,Accessories,8,81.89,East,PayPal,CUST-376,655.12,March,2023
+ORD-2021,2023-10-15,USB Hub,Accessories,1,48.28,North,Credit Card,CUST-446,48.28,October,2023
+ORD-2025,2023-05-28,USB Hub,Accessories,7,48.99,Central,Bank Transfer,CUST-309,342.93,May,2023
+ORD-2104,2023-03-17,Charger,Accessories,8,34.97,West,Credit Card,CUST-482,279.76,March,2023
+ORD-1205,2023-04-26,Webcam,Electronics,4,84.65,East,Bank Transfer,CUST-169,338.6,April,2023
+ORD-1034,2023-12-18,Webcam,Electronics,1,78.94,Central,Cash,UNKNOWN,78.94,December,2023
+ORD-1775,2023-10-18,Monitor,Electronics,8,329.34,South,Debit Card,CUST-242,2634.72,October,2023
+ORD-1508,2023-10-04,Headphones,Accessories,6,82.11,South,Bank Transfer,CUST-418,492.66,October,2023
+ORD-1155,2023-02-18,Webcam,Electronics,7,67.61,North,Cash,CUST-113,473.27,February,2023
+ORD-1091,2023-02-02,Notebook,Office,2,6.22,Central,PayPal,CUST-297,12.44,February,2023
+ORD-1897,2023-05-21,USB Hub,Accessories,4,35.88,West,Cash,CUST-499,143.52,May,2023
+ORD-1564,2023-02-12,Monitor,Electronics,4,328.87,West,Cash,CUST-450,1315.48,February,2023
+ORD-1776,2023-01-17,Charger,Accessories,5,29.43,Central,Credit Card,CUST-437,147.15,January,2023
+ORD-1241,2023-06-24,Keyboard,Accessories,4,60.94,West,Credit Card,CUST-373,243.76,June,2023
+ORD-1013,2023-12-23,Mouse,Accessories,7,34.01,East,PayPal,CUST-112,238.07,December,2023
+ORD-1315,2023-08-08,Keyboard,Accessories,5,52.41,Central,Cash,CUST-121,262.05,August,2023
+ORD-1600,2023-08-18,Monitor,Electronics,7,328.07,Central,Credit Card,CUST-276,2296.49,August,2023
+ORD-1387,2023-11-20,Keyboard,Accessories,1,64.82,Central,PayPal,CUST-294,64.82,November,2023
+ORD-1166,2023-02-16,Mouse,Accessories,1,39.21,South,Bank Transfer,CUST-247,39.21,February,2023
+ORD-1840,2023-03-13,Notebook,Office,10,7.31,West,Credit Card,UNKNOWN,73.1,March,2023
+ORD-1020,2023-02-20,Monitor,Electronics,1,326.69,West,Debit Card,CUST-179,326.69,February,2023
+ORD-1646,2023-09-26,Laptop,Electronics,7,964.77,West,Credit Card,CUST-205,6753.39,September,2023
+ORD-2154,2023-04-26,Keyboard,Accessories,2,60.33,Central,Bank Transfer,CUST-204,120.66,April,2023
+ORD-1831,2023-12-30,Desk Lamp,Office,5,30.81,East,PayPal,CUST-240,154.05,December,2023
+ORD-1562,2023-03-05,Mouse,Accessories,6,32.53,West,PayPal,CUST-437,195.18,March,2023
+ORD-1023,2023-07-28,Monitor,Electronics,4,324.32,North,PayPal,CUST-379,1297.28,July,2023
+ORD-1686,2023-02-02,USB Hub,Accessories,8,33.63,East,Debit Card,CUST-277,269.04,February,2023
+ORD-1957,2023-07-24,Keyboard,Accessories,4,66.06,Central,Bank Transfer,CUST-451,264.24,July,2023
+ORD-1189,2023-06-30,Monitor,Electronics,3,329.58,West,PayPal,CUST-343,988.74,June,2023
+ORD-1975,2023-11-12,Mouse,Accessories,8,34.05,East,Credit Card,CUST-420,272.4,November,2023
+ORD-2082,2023-02-26,Keyboard,Accessories,1,57.17,Central,PayPal,CUST-397,57.17,February,2023
+ORD-1474,2023-11-01,Headphones,Accessories,2,91.05,Central,Bank Transfer,CUST-282,182.1,November,2023
+ORD-1856,2023-09-03,Charger,Accessories,5,30.0,North,Credit Card,CUST-430,150.0,September,2023
+ORD-1747,2023-01-22,Mouse,Accessories,3,32.08,South,PayPal,CUST-246,96.24,January,2023
+ORD-1252,2023-11-13,Mouse,Accessories,1,22.03,South,Credit Card,CUST-310,22.03,November,2023
+ORD-1021,2023-09-08,Desk Lamp,Office,2,28.11,South,Credit Card,CUST-102,56.22,September,2023
+ORD-1459,2023-12-03,Desk Lamp,Office,2,37.18,West,PayPal,CUST-162,74.36,December,2023
+ORD-2184,2023-09-03,Webcam,Electronics,2,68.22,West,Debit Card,CUST-301,136.44,September,2023
+ORD-1276,2023-09-27,Notebook,Office,3,11.17,West,Cash,CUST-108,33.51,September,2023
+ORD-1955,2023-06-13,Headphones,Accessories,8,91.44,East,Bank Transfer,CUST-233,731.52,June,2023
+ORD-1170,2023-02-19,Keyboard,Accessories,5,52.02,East,PayPal,CUST-452,260.1,February,2023
+ORD-1385,2023-08-29,Keyboard,Accessories,8,54.23,East,Cash,CUST-192,433.84,August,2023
+ORD-1805,2023-08-17,Charger,Accessories,4,29.61,South,Bank Transfer,UNKNOWN,118.44,August,2023
+ORD-1343,2023-04-24,Desk Lamp,Office,5,27.96,North,Debit Card,CUST-146,139.8,April,2023
+ORD-1769,2023-02-04,Monitor,Electronics,3,320.84,Central,Bank Transfer,CUST-203,962.52,February,2023
+ORD-1130,2023-12-31,Desk Lamp,Office,9,41.78,Central,Credit Card,CUST-427,376.02,December,2023
+ORD-1871,2023-03-07,Mouse,Accessories,4,31.23,South,Bank Transfer,CUST-285,124.92,March,2023
+ORD-2123,2023-08-30,Laptop,Electronics,1,948.58,West,Credit Card,CUST-425,948.58,August,2023
+ORD-1087,2023-03-06,USB Hub,Accessories,5,34.92,East,Bank Transfer,CUST-175,174.6,March,2023
+ORD-1330,2023-07-05,Keyboard,Accessories,6,68.28,South,Bank Transfer,CUST-105,409.68,July,2023
+ORD-1321,2023-05-29,Charger,Accessories,5,17.52,South,PayPal,CUST-403,87.6,May,2023
+ORD-1466,2023-03-14,Webcam,Electronics,9,70.22,Central,Credit Card,CUST-465,631.98,March,2023
+ORD-1121,2023-11-08,USB Hub,Accessories,6,35.33,Central,Debit Card,CUST-368,211.98,November,2023
+ORD-2044,2023-04-12,Charger,Accessories,9,18.63,East,Bank Transfer,CUST-454,167.67,April,2023
+ORD-2095,2023-04-27,Headphones,Accessories,6,75.37,West,Debit Card,CUST-321,452.22,April,2023
+ORD-2130,2023-06-16,Charger,Accessories,9,19.38,East,PayPal,UNKNOWN,174.42,June,2023
+ORD-1860,2023-10-22,Laptop,Electronics,9,961.79,West,Bank Transfer,CUST-439,8656.11,October,2023
+ORD-2126,2023-03-12,Laptop,Electronics,7,964.35,West,PayPal,CUST-196,6750.45,March,2023

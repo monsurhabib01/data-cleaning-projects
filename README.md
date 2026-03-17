@@ -1,32 +1,79 @@
-# 📊 Data Cleaning & Visualization Projects
+# Project 03 — Retail Sales Data Cleaning
 
-A collection of hands-on projects from my A-Z Data Analyst Learning Roadmap.
-Each project focuses on real-world datasets with practical cleaning, analysis, and visualization.
-
----
-
-## 🗂️ Project List
-
-| # | Project | Dataset | Tools | Status |
-|---|---------|---------|-------|--------|
-| 01 | [GlobalTextiles CRM Data Cleaning](./project-01-globaltextiles) | Excel/CSV | Excel, HubSpot | ✅ Completed |
-| 02 | [Workforce Data Filtering](./project-02-workforce-data-filtering) | Excel | Python, Pandas | ✅ Completed |
+**Tools:** Python · Pandas · NumPy  
+**Dataset:** 1,280-row retail sales data (simulated real-world messy data)  
+**Output:** Clean, analysis-ready CSV with full audit trail
 
 ---
 
-## 🛠️ Tools & Libraries
-- **Excel** — Data cleaning, formatting, deduplication
-- **Python** — Pandas, NumPy
-- **CRM** — HubSpot
-- **Environment** — Jupyter Notebook, VS Code
+## Problem
+
+Raw sales data collected from multiple sources contained:
+
+- **2 duplicate rows** — same order recorded twice
+- **204 missing values** across category, region, payment method, customer ID
+- **4 inconsistent date formats** mixed in one column (YYYY-MM-DD, DD/MM/YYYY, MM-DD-YYYY, DD-Mon-YYYY)
+- **15 variations** of 3 category names (e.g. `electronics`, `ELECTRONICS`, `Electronis`, `Electronic`)
+- **22 variations** of 5 region names (e.g. `N`, `north`, `NORTH`, `Nort`)
+- **25 invalid quantity entries** (zero or negative values)
+- **Incorrect total_price** values due to bad quantities
 
 ---
 
-### 📫 Connect
+## What I Did
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-monsur-habib/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:monsurhabib01@gmail.com)
+| Step | Action | Result |
+|------|--------|--------|
+| 1 | Removed duplicate rows | 2 rows dropped |
+| 2 | Standardized 4 date formats → YYYY-MM-DD | 0 invalid dates |
+| 3 | Normalized 15 category variations → 3 clean values | 0 missing |
+| 4 | Normalized 22 region variations → 5 clean values | 0 missing |
+| 5 | Standardized payment method naming | 5 clean categories |
+| 6 | Removed invalid quantity rows (≤ 0) | 25 rows dropped |
+| 7 | Recalculated total_price from quantity × unit_price | Accurate totals |
+| 8 | Filled remaining nulls (mode / product lookup) | 0 nulls remaining |
+| 9 | Added derived columns: month, year | Analysis-ready |
 
-🌐 [aitipseveryday.com](https://aitipseveryday.com)
+---
+
+## Results
+
+| Metric | Before | After |
+|--------|--------|-------|
+| Rows | 1,280 | 1,253 |
+| Missing values | 204 | 0 |
+| Duplicate rows | 2 | 0 |
+| Date formats | 4 mixed | 1 standard |
+| Category variations | 15 | 3 |
+| Region variations | 22 | 5 |
+| Invalid quantities | 25 | 0 |
+
+**Total revenue (clean data): $1,091,122.62**
+
+---
+
+## Files
+
+```
+project-03-sales-data-cleaning/
+├── raw_sales_data.csv          ← Original messy data
+├── clean_sales_data.csv        ← Cleaned output
+├── sales_data_cleaning.py      ← Main cleaning script
+└── README.md
 ```
 
+---
+
+## How to Run
+
+```bash
+pip install pandas numpy
+python sales_data_cleaning.py
+```
+
+---
+
+## Author
+
+**Mohammad Monsur Habib** — Freelance Data Analyst  
+[github.com/monsurhabib01](https://github.com/monsurhabib01)
